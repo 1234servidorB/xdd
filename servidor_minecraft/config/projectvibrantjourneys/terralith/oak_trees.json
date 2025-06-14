@@ -1,30 +1,18 @@
 [
   {
-    "biomeName": "terralith:brushlands",
+    "biomeName": "terralith:rocky_jungle",
     "chance": 5
   },
   {
-    "biomeName": "terralith:ice_marsh",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:birch_taiga",
+    "biomeName": "terralith:snowy_maple_forest",
     "chance": 5
   },
   {
-    "biomeName": "terralith:shield",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:lush_valley",
+    "biomeName": "terralith:haze_mountain",
     "chance": 10
   },
   {
-    "biomeName": "terralith:blooming_valley",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:temperate_highlands",
+    "biomeName": "terralith:skylands_autumn",
     "chance": 10
   },
   {
@@ -32,19 +20,31 @@
     "chance": 5
   },
   {
-    "biomeName": "terralith:skylands_autumn",
+    "biomeName": "terralith:temperate_highlands",
     "chance": 10
   },
   {
-    "biomeName": "terralith:haze_mountain",
+    "biomeName": "terralith:blooming_valley",
     "chance": 10
   },
   {
-    "biomeName": "terralith:snowy_maple_forest",
+    "biomeName": "terralith:lush_valley",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:shield",
     "chance": 5
   },
   {
-    "biomeName": "terralith:rocky_jungle",
+    "biomeName": "terralith:birch_taiga",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:ice_marsh",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:brushlands",
     "chance": 5
   },
   {

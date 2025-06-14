@@ -1,6 +1,6 @@
 [
   {
-    "biomeName": "byg:borealis_grove",
+    "biomeName": "byg:autumnal_forest",
     "chance": 10
   },
   {
@@ -8,7 +8,7 @@
     "chance": 10
   },
   {
-    "biomeName": "byg:autumnal_forest",
+    "biomeName": "byg:borealis_grove",
     "chance": 10
   },
   {

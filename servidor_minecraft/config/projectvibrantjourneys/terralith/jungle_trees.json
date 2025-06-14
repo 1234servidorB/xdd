@@ -1,6 +1,18 @@
 [
   {
-    "biomeName": "terralith:skylands_summer",
+    "biomeName": "terralith:tropical_jungle",
+    "chance": 15
+  },
+  {
+    "biomeName": "terralith:desert_oasis",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:jungle_mountains",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:red_oasis",
     "chance": 10
   },
   {
@@ -8,19 +20,7 @@
     "chance": 15
   },
   {
-    "biomeName": "terralith:red_oasis",
+    "biomeName": "terralith:skylands_summer",
     "chance": 10
-  },
-  {
-    "biomeName": "terralith:jungle_mountains",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:desert_oasis",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:tropical_jungle",
-    "chance": 15
   }
 ]
