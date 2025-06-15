@@ -17985,3 +17985,268 @@ java.lang.NullPointerException: Cannot invoke "net.smileycorp.hordes.hordeevent.
 [15Jun2025 04:20:08.371] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
 [15Jun2025 04:20:08.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadowne_[/127.22.166.252:40371] logged in with entity id 20646 at (-1432.5406741826757, 88.23527968815392, -1152.1530556519156)
 [15Jun2025 04:20:08.442] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@742eb0b0 into net.minecraft.network.Connection@6c61e252
+[15Jun2025 04:20:08.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ joined the game
+[15Jun2025 04:20:08.533] [Server thread/DEBUG] [FTB Teams/]: player a846feb1-a590-3c81-a521-bdc6e6e92708 logged in, player team = Shadowne_#a846feb1
+[15Jun2025 04:20:08.533] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[15Jun2025 04:20:08.548] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[15Jun2025 04:20:08.549] [Server thread/DEBUG] [FTB Teams/]: sending team login event for a846feb1-a590-3c81-a521-bdc6e6e92708...
+[15Jun2025 04:20:08.549] [Server thread/DEBUG] [FTB Teams/]: team login event for a846feb1-a590-3c81-a521-bdc6e6e92708 sent
+[15Jun2025 04:20:08.549] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Shadowne_
+[15Jun2025 04:20:08.552] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Shadowne_: {disabled=false, disconnected=true, uuid=a846feb1-a590-3c81-a521-bdc6e6e92708, name=Shadowne_, group=null}
+[15Jun2025 04:20:08.757] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Shadowne_
+[15Jun2025 04:20:08.776] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Shadowne_ (18)
+[15Jun2025 04:20:08.777] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Shadowne_
+[15Jun2025 04:20:08.777] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Shadowne_
+[15Jun2025 04:20:08.777] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with Shadowne_
+[15Jun2025 04:20:08.777] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Shadowne_
+[15Jun2025 04:20:11.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Hot Stuff]
+[15Jun2025 04:20:29.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ fell from a high place
+[15Jun2025 04:20:31.170] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Jun2025 04:20:35.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported Shadowne_ to aron121]
+[15Jun2025 04:21:21.204] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[15Jun2025 04:21:28.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported aron121 to Shadowne_]
+[15Jun2025 04:21:35.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:21:35.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:23:02.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Cover Me with Diamonds]
+[15Jun2025 04:23:04.377] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[15Jun2025 04:23:04.377] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[15Jun2025 04:23:05.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[15Jun2025 04:23:20.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[15Jun2025 04:24:21.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported aron121 to Shadowne_]
+[15Jun2025 04:24:21.726] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[15Jun2025 04:24:21.727] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[15Jun2025 04:25:00.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported Shadowne_ to aron121]
+[15Jun2025 04:25:12.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has made the advancement [Eye of The Storm]
+[15Jun2025 04:25:12.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Eye of The Storm]
+[15Jun2025 04:25:49.558] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[15Jun2025 04:25:49.559] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[15Jun2025 04:25:49.559] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[15Jun2025 04:26:15.210] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[15Jun2025 04:26:15.410] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[15Jun2025 04:26:35.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:26:35.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:26:43.641] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[15Jun2025 04:26:43.641] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[15Jun2025 04:26:43.706] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[15Jun2025 04:27:17.537] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[15Jun2025 04:27:17.709] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[15Jun2025 04:27:26.683] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[15Jun2025 04:27:26.684] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[15Jun2025 04:27:30.870] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.air) [respectsCutoff: false]
+[15Jun2025 04:27:34.630] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.air) [respectsCutoff: false]
+[15Jun2025 04:27:42.220] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.air) [respectsCutoff: false]
+[15Jun2025 04:27:42.270] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.air) [respectsCutoff: false]
+[15Jun2025 04:28:54.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2614, y=64, z=-1227} BlockPos{x=-2614, y=62, z=-1227}
+[15Jun2025 04:28:54.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2615, y=64, z=-1225} BlockPos{x=-2614, y=62, z=-1227}
+[15Jun2025 04:28:55.353] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.air) [respectsCutoff: false]
+[15Jun2025 04:29:11.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Penteconter]
+[15Jun2025 04:29:28.092] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@4ac81664
+[15Jun2025 04:29:28.092] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:29:28.120] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 7
+[15Jun2025 04:29:32.701] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 7
+[15Jun2025 04:29:32.720] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 7
+[15Jun2025 04:30:09.778] [Server thread/DEBUG] [pointblank/]: 9778 handling client fire request
+[15Jun2025 04:30:09.778] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 23
+[15Jun2025 04:30:09.778] [Server thread/DEBUG] [pointblank/]: 9778 - obtained hit result in 0ms
+[15Jun2025 04:30:09.778] [Server thread/DEBUG] [pointblank/]: 9778 obtained hit results
+[15Jun2025 04:30:09.778] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4e0ea946
+[15Jun2025 04:30:09.778] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:09.778] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.00, y=71.18, z=-1205.20]
+[15Jun2025 04:30:11.576] [Server thread/DEBUG] [pointblank/]: 11576 handling client fire request
+[15Jun2025 04:30:11.576] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 22
+[15Jun2025 04:30:11.576] [Server thread/DEBUG] [pointblank/]: 11576 - obtained hit result in 0ms
+[15Jun2025 04:30:11.576] [Server thread/DEBUG] [pointblank/]: 11576 obtained hit results
+[15Jun2025 04:30:11.576] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@61691e92
+[15Jun2025 04:30:11.576] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:11.577] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.00, y=70.00, z=-1205.20]
+[15Jun2025 04:30:12.221] [Server thread/DEBUG] [pointblank/]: 12221 handling client fire request
+[15Jun2025 04:30:12.221] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 21
+[15Jun2025 04:30:12.222] [Server thread/DEBUG] [pointblank/]: 12222 - obtained hit result in 1ms
+[15Jun2025 04:30:12.222] [Server thread/DEBUG] [pointblank/]: 12222 obtained hit results
+[15Jun2025 04:30:12.222] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6c6903c2
+[15Jun2025 04:30:12.222] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:12.222] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.40, y=70.00, z=-1205.38]
+[15Jun2025 04:30:12.425] [Server thread/DEBUG] [pointblank/]: 12425 handling client fire request
+[15Jun2025 04:30:12.425] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 20
+[15Jun2025 04:30:12.425] [Server thread/DEBUG] [pointblank/]: 12425 - obtained hit result in 0ms
+[15Jun2025 04:30:12.425] [Server thread/DEBUG] [pointblank/]: 12425 obtained hit results
+[15Jun2025 04:30:12.425] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26cff50e
+[15Jun2025 04:30:12.425] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:12.426] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.66, y=70.00, z=-1205.56]
+[15Jun2025 04:30:12.621] [Server thread/DEBUG] [pointblank/]: 12621 handling client fire request
+[15Jun2025 04:30:12.621] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 19
+[15Jun2025 04:30:12.621] [Server thread/DEBUG] [pointblank/]: 12621 - obtained hit result in 0ms
+[15Jun2025 04:30:12.621] [Server thread/DEBUG] [pointblank/]: 12621 obtained hit results
+[15Jun2025 04:30:12.621] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15564bb9
+[15Jun2025 04:30:12.621] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:12.621] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.72]
+[15Jun2025 04:30:12.829] [Server thread/DEBUG] [pointblank/]: 12829 handling client fire request
+[15Jun2025 04:30:12.829] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 18
+[15Jun2025 04:30:12.829] [Server thread/DEBUG] [pointblank/]: 12829 - obtained hit result in 0ms
+[15Jun2025 04:30:12.829] [Server thread/DEBUG] [pointblank/]: 12829 obtained hit results
+[15Jun2025 04:30:12.829] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4c68ab98
+[15Jun2025 04:30:12.829] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:12.829] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:13.027] [Server thread/DEBUG] [pointblank/]: 13027 handling client fire request
+[15Jun2025 04:30:13.027] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 17
+[15Jun2025 04:30:13.027] [Server thread/DEBUG] [pointblank/]: 13027 - obtained hit result in 0ms
+[15Jun2025 04:30:13.027] [Server thread/DEBUG] [pointblank/]: 13027 obtained hit results
+[15Jun2025 04:30:13.027] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@20af5c44
+[15Jun2025 04:30:13.028] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:13.028] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:13.221] [Server thread/DEBUG] [pointblank/]: 13221 handling client fire request
+[15Jun2025 04:30:13.222] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 16
+[15Jun2025 04:30:13.222] [Server thread/DEBUG] [pointblank/]: 13222 - obtained hit result in 0ms
+[15Jun2025 04:30:13.222] [Server thread/DEBUG] [pointblank/]: 13222 obtained hit results
+[15Jun2025 04:30:13.222] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ed3f1c
+[15Jun2025 04:30:13.222] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:13.222] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:13.475] [Server thread/DEBUG] [pointblank/]: 13475 handling client fire request
+[15Jun2025 04:30:13.475] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 15
+[15Jun2025 04:30:13.475] [Server thread/DEBUG] [pointblank/]: 13475 - obtained hit result in 0ms
+[15Jun2025 04:30:13.476] [Server thread/DEBUG] [pointblank/]: 13476 obtained hit results
+[15Jun2025 04:30:13.476] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c4550a5
+[15Jun2025 04:30:13.476] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:13.476] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:13.581] [Server thread/DEBUG] [pointblank/]: 13581 handling client fire request
+[15Jun2025 04:30:13.581] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 10
+[15Jun2025 04:30:13.581] [Server thread/DEBUG] [pointblank/]: 13581 - obtained hit result in 0ms
+[15Jun2025 04:30:13.581] [Server thread/DEBUG] [pointblank/]: 13581 obtained hit results
+[15Jun2025 04:30:13.581] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@422c8e9b
+[15Jun2025 04:30:13.582] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:13.582] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:13.678] [Server thread/DEBUG] [pointblank/]: 13678 handling client fire request
+[15Jun2025 04:30:13.678] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 14
+[15Jun2025 04:30:13.678] [Server thread/DEBUG] [pointblank/]: 13678 - obtained hit result in 0ms
+[15Jun2025 04:30:13.678] [Server thread/DEBUG] [pointblank/]: 13678 obtained hit results
+[15Jun2025 04:30:13.678] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7e0dccb1
+[15Jun2025 04:30:13.679] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:13.679] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:13.923] [Server thread/DEBUG] [pointblank/]: 13923 handling client fire request
+[15Jun2025 04:30:13.923] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 13
+[15Jun2025 04:30:13.923] [Server thread/DEBUG] [pointblank/]: 13923 - obtained hit result in 0ms
+[15Jun2025 04:30:13.923] [Server thread/DEBUG] [pointblank/]: 13923 obtained hit results
+[15Jun2025 04:30:13.923] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@13fe5bb6
+[15Jun2025 04:30:13.923] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:13.923] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:14.127] [Server thread/DEBUG] [pointblank/]: 14127 handling client fire request
+[15Jun2025 04:30:14.127] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 12
+[15Jun2025 04:30:14.127] [Server thread/DEBUG] [pointblank/]: 14127 - obtained hit result in 0ms
+[15Jun2025 04:30:14.127] [Server thread/DEBUG] [pointblank/]: 14127 obtained hit results
+[15Jun2025 04:30:14.127] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@306753c
+[15Jun2025 04:30:14.128] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:14.128] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:14.324] [Server thread/DEBUG] [pointblank/]: 14324 handling client fire request
+[15Jun2025 04:30:14.325] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 11
+[15Jun2025 04:30:14.325] [Server thread/DEBUG] [pointblank/]: 14325 - obtained hit result in 0ms
+[15Jun2025 04:30:14.325] [Server thread/DEBUG] [pointblank/]: 14325 obtained hit results
+[15Jun2025 04:30:14.325] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1556f43a
+[15Jun2025 04:30:14.325] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:14.325] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:14.374] [Server thread/DEBUG] [pointblank/]: 14374 handling client fire request
+[15Jun2025 04:30:14.374] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 9
+[15Jun2025 04:30:14.375] [Server thread/DEBUG] [pointblank/]: 14375 - obtained hit result in 1ms
+[15Jun2025 04:30:14.375] [Server thread/DEBUG] [pointblank/]: 14375 obtained hit results
+[15Jun2025 04:30:14.375] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2549dc39
+[15Jun2025 04:30:14.375] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:14.375] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:14.527] [Server thread/DEBUG] [pointblank/]: 14527 handling client fire request
+[15Jun2025 04:30:14.527] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 10
+[15Jun2025 04:30:14.527] [Server thread/DEBUG] [pointblank/]: 14527 - obtained hit result in 0ms
+[15Jun2025 04:30:14.527] [Server thread/DEBUG] [pointblank/]: 14527 obtained hit results
+[15Jun2025 04:30:14.527] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@147087db
+[15Jun2025 04:30:14.527] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:14.527] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:14.577] [Server thread/DEBUG] [pointblank/]: 14577 handling client fire request
+[15Jun2025 04:30:14.577] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 8
+[15Jun2025 04:30:14.577] [Server thread/DEBUG] [pointblank/]: 14577 - obtained hit result in 0ms
+[15Jun2025 04:30:14.577] [Server thread/DEBUG] [pointblank/]: 14577 obtained hit results
+[15Jun2025 04:30:14.577] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@13282f13
+[15Jun2025 04:30:14.577] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:14.578] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:14.723] [Server thread/DEBUG] [pointblank/]: 14723 handling client fire request
+[15Jun2025 04:30:14.723] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 9
+[15Jun2025 04:30:14.723] [Server thread/DEBUG] [pointblank/]: 14723 - obtained hit result in 0ms
+[15Jun2025 04:30:14.723] [Server thread/DEBUG] [pointblank/]: 14723 obtained hit results
+[15Jun2025 04:30:14.723] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4144ff4
+[15Jun2025 04:30:14.724] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:14.724] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:14.777] [Server thread/DEBUG] [pointblank/]: 14777 handling client fire request
+[15Jun2025 04:30:14.777] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 7
+[15Jun2025 04:30:14.777] [Server thread/DEBUG] [pointblank/]: 14777 - obtained hit result in 0ms
+[15Jun2025 04:30:14.777] [Server thread/DEBUG] [pointblank/]: 14777 obtained hit results
+[15Jun2025 04:30:14.777] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5616b8d2
+[15Jun2025 04:30:14.778] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:14.778] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:14.976] [Server thread/DEBUG] [pointblank/]: 14976 handling client fire request
+[15Jun2025 04:30:14.976] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 8
+[15Jun2025 04:30:14.976] [Server thread/DEBUG] [pointblank/]: 14976 - obtained hit result in 0ms
+[15Jun2025 04:30:14.976] [Server thread/DEBUG] [pointblank/]: 14976 obtained hit results
+[15Jun2025 04:30:14.976] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@100e7fed
+[15Jun2025 04:30:14.976] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:14.976] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:15.025] [Server thread/DEBUG] [pointblank/]: 15025 handling client fire request
+[15Jun2025 04:30:15.025] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 6
+[15Jun2025 04:30:15.025] [Server thread/DEBUG] [pointblank/]: 15025 - obtained hit result in 0ms
+[15Jun2025 04:30:15.025] [Server thread/DEBUG] [pointblank/]: 15025 obtained hit results
+[15Jun2025 04:30:15.025] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@73bd9516
+[15Jun2025 04:30:15.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:15.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:15.128] [Server thread/DEBUG] [pointblank/]: 15128 handling client fire request
+[15Jun2025 04:30:15.128] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 5
+[15Jun2025 04:30:15.128] [Server thread/DEBUG] [pointblank/]: 15128 - obtained hit result in 0ms
+[15Jun2025 04:30:15.128] [Server thread/DEBUG] [pointblank/]: 15128 obtained hit results
+[15Jun2025 04:30:15.128] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@45750f5d
+[15Jun2025 04:30:15.128] [Server thread/DEBUG] [pointblank/]: Creating state 2875fce7-f2ba-4622-b68a-803668aca40d
+[15Jun2025 04:30:15.129] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:15.129] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:15.191] [Server thread/DEBUG] [pointblank/]: 15191 handling client fire request
+[15Jun2025 04:30:15.191] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 7
+[15Jun2025 04:30:15.191] [Server thread/DEBUG] [pointblank/]: 15191 - obtained hit result in 0ms
+[15Jun2025 04:30:15.191] [Server thread/DEBUG] [pointblank/]: 15191 obtained hit results
+[15Jun2025 04:30:15.191] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6cf630d0
+[15Jun2025 04:30:15.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:15.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:15.377] [Server thread/DEBUG] [pointblank/]: 15377 handling client fire request
+[15Jun2025 04:30:15.377] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 317652789 to 6
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: 15378 - obtained hit result in 1ms
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: 15378 obtained hit results
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@fe4cbb4
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: 15378 handling client fire request
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 4
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: 15378 - obtained hit result in 0ms
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: 15378 obtained hit results
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@10eefa7b
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2630.18, y=68.00, z=-1206.14]
+[15Jun2025 04:30:15.378] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:15.623] [Server thread/DEBUG] [pointblank/]: 15623 handling client fire request
+[15Jun2025 04:30:15.623] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 3
+[15Jun2025 04:30:15.623] [Server thread/DEBUG] [pointblank/]: 15623 - obtained hit result in 0ms
+[15Jun2025 04:30:15.623] [Server thread/DEBUG] [pointblank/]: 15623 obtained hit results
+[15Jun2025 04:30:15.623] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5cf5cd43
+[15Jun2025 04:30:15.624] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2629.88, y=68.00, z=-1206.14]
+[15Jun2025 04:30:15.624] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:15.828] [Server thread/DEBUG] [pointblank/]: 15828 handling client fire request
+[15Jun2025 04:30:15.828] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 2
+[15Jun2025 04:30:15.828] [Server thread/DEBUG] [pointblank/]: 15828 - obtained hit result in 0ms
+[15Jun2025 04:30:15.828] [Server thread/DEBUG] [pointblank/]: 15828 obtained hit results
+[15Jun2025 04:30:15.828] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6a954f3b
+[15Jun2025 04:30:15.828] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2629.56, y=68.00, z=-1206.14]
+[15Jun2025 04:30:15.828] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:16.025] [Server thread/DEBUG] [pointblank/]: 16025 handling client fire request
+[15Jun2025 04:30:16.025] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 1
+[15Jun2025 04:30:16.026] [Server thread/DEBUG] [pointblank/]: 16026 - obtained hit result in 0ms
+[15Jun2025 04:30:16.026] [Server thread/DEBUG] [pointblank/]: 16026 obtained hit results
+[15Jun2025 04:30:16.026] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7afb1c91
+[15Jun2025 04:30:16.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2629.44, y=68.00, z=-1206.10]
+[15Jun2025 04:30:16.026] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:16.172] [Server thread/DEBUG] [pointblank/]: 16172 handling client fire request
+[15Jun2025 04:30:16.172] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 0
+[15Jun2025 04:30:16.172] [Server thread/DEBUG] [pointblank/]: 16172 - obtained hit result in 0ms
+[15Jun2025 04:30:16.172] [Server thread/DEBUG] [pointblank/]: 16172 obtained hit results
+[15Jun2025 04:30:16.172] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7ff5702b
+[15Jun2025 04:30:16.172] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['aron121'/81, l='ServerLevel[world]', x=-2629.05, y=68.75, z=-1205.88]
+[15Jun2025 04:30:16.173] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74] sends hit scan notification to ServerPlayer['Shadowne_'/20646, l='ServerLevel[world]', x=-2625.74, y=70.00, z=-1205.74]
+[15Jun2025 04:30:17.920] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2078971448 to 30
