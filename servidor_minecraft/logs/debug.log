@@ -22051,3 +22051,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [14Jun2025 23:52:46.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jun2025 23:54:30.755] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
 [14Jun2025 23:55:34.325] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[14Jun2025 23:57:00.882] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[14Jun2025 23:57:46.543] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[14Jun2025 23:57:46.548] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[14Jun2025 23:57:46.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 23:57:46.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 00:00:51.339] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[15Jun2025 00:00:58.948] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[15Jun2025 00:00:58.948] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[15Jun2025 00:01:44.026] [Server thread/DEBUG] [mixin/]: Mixing FluidNetworkMixin from railways.mixins.json into com.simibubi.create.content.fluids.FluidNetwork
+[15Jun2025 00:01:55.099] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[15Jun2025 00:01:55.099] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[15Jun2025 00:02:10.590] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.air) [respectsCutoff: false]
+[15Jun2025 00:02:46.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 00:02:46.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 00:03:26.244] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[15Jun2025 00:03:26.244] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[15Jun2025 00:04:12.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of aron121) moved too quickly! 4.187297051171527,8.276188623312919E-10,9.200459846952583
+[15Jun2025 00:04:12.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of aron121) moved too quickly! 4.449585164937389,8.346887625521049E-10,9.487266463261165
+[15Jun2025 00:04:12.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of aron121) moved too quickly! 4.717685738809678,8.381206839658262E-10,9.769334201785966
+[15Jun2025 00:04:12.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of aron121) moved too quickly! 4.990408382070655,8.385399041799246E-10,10.047931200936375
+[15Jun2025 00:04:12.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of aron121) moved too quickly! 5.235858754503283,8.36664071357518E-10,10.298668493529476
+[15Jun2025 00:04:12.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of aron121) moved too quickly! 5.456764083840653,8.332250445164391E-10,10.52433205088522
+[15Jun2025 00:06:48.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Barrel Booty]
+[15Jun2025 00:06:48.765] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from hordes.mixin.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[15Jun2025 00:06:48.771] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[15Jun2025 00:06:49.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Diamonds!]
+[15Jun2025 00:07:29.496] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[15Jun2025 00:07:46.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 00:07:46.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 00:10:21.296] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[15Jun2025 00:10:21.302] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[15Jun2025 00:10:21.302] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[15Jun2025 00:11:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement ['X' Marks the Spot]
+[15Jun2025 00:11:56.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Acquire Hardware]
+[15Jun2025 00:12:10.202] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[15Jun2025 00:12:46.561] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[15Jun2025 00:12:46.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 00:12:46.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
