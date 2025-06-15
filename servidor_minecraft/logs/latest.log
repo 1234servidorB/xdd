@@ -8,3 +8,40 @@
 [15Jun2025 00:06:49.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Diamonds!]
 [15Jun2025 00:11:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement ['X' Marks the Spot]
 [15Jun2025 00:11:56.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Acquire Hardware]
+[15Jun2025 00:19:25.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Not Today, Thank You]
+[15Jun2025 00:23:19.585] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=910, y=-59, z=1288}
+[15Jun2025 00:23:19.586] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=911, y=-59, z=1287}
+[15Jun2025 00:23:19.586] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=909, y=-59, z=1287}
+[15Jun2025 00:23:19.587] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=906, y=-59, z=1298}
+[15Jun2025 00:23:19.587] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=905, y=-59, z=1299}
+[15Jun2025 00:23:19.587] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=907, y=-59, z=1299}
+[15Jun2025 00:23:27.001] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-58, z=1290}
+[15Jun2025 00:24:53.022] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=641, y=-36, z=1352}
+[15Jun2025 00:25:18.278] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:25:20.071] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=739, y=-58, z=1295}
+[15Jun2025 00:25:22.954] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=601, y=-58, z=1297}
+[15Jun2025 00:25:22.954] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=601, y=-58, z=1299}
+[15Jun2025 00:25:52.127] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:25:59.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Disme A Dozen]
+[15Jun2025 00:26:09.973] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:26:11.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Showing new title for aron121
+[15Jun2025 00:26:18.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Showing new title for aron121
+[15Jun2025 00:26:32.273] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:26:41.871] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:26:53.935] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:27:00.392] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:27:06.374] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:27:16.876] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17211, l='ServerLevel[world]', x=-812.46, y=103.94, z=95.54] died, message: 'Farmer was slain by Zombie'
+[15Jun2025 00:27:18.873] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:27:32.174] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:28:04.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Isn't It Iron Pick]
+[15Jun2025 00:29:22.524] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:30:35.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aron121 moved too quickly! -7.3252085028792635,0.6425000131130219,-7.056096121052207
+[15Jun2025 00:30:35.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9080ms or 181 ticks behind
+[15Jun2025 00:31:53.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Sweet Dreams]
+[15Jun2025 00:33:43.270] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:33:48.873] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:34:02.874] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:34:24.820] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:36:42.873] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 00:37:12.922] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
