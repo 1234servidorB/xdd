@@ -74,6 +74,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-06-15 03:35:40 +0000",
       "minecraft:savanna_plateau": "2025-06-15 01:52:54 +0000",
       "minecraft:stony_peaks": "2025-06-15 01:51:57 +0000",
       "minecraft:sparse_jungle": "2025-06-15 02:54:16 +0000",
@@ -1424,6 +1425,7 @@
       "minecraft:spider": "2025-06-15 02:46:26 +0000",
       "minecraft:creeper": "2025-06-15 02:59:12 +0000",
       "minecraft:zombie": "2025-06-15 02:05:04 +0000",
+      "minecraft:drowned": "2025-06-15 03:31:52 +0000",
       "minecraft:zombie_villager": "2025-06-15 03:01:28 +0000"
     },
     "done": false
@@ -1472,7 +1474,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-06-15 01:59:03 +0000"
+      "bread": "2025-06-15 01:59:03 +0000",
+      "golden_apple": "2025-06-15 03:27:12 +0000"
     },
     "done": false
   },
@@ -4030,6 +4033,138 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-06-15 03:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_wood": {
+    "criteria": {
+      "has_chestnut_log": "2025-06-15 03:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-06-15 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-06-15 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_planks": {
+    "criteria": {
+      "has_chestnut_log": "2025-06-15 03:30:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-06-15 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-06-15 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-15 03:29:01 +0000"
     },
     "done": true
   },
