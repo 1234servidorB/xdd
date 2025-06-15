@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/swamp_oak_wood": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-06-15 00:48:17 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-15 00:11:56 +0000"
@@ -164,6 +170,12 @@
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-06-15 00:11:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 00:49:41 +0000"
     },
     "done": true
   },
@@ -353,6 +365,12 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-06-15 00:45:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-06-15 00:11:56 +0000"
@@ -497,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-15 00:52:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bear_trophy": {
     "criteria": {
       "has_bear_trophy": "2025-06-14 23:46:40 +0000"
@@ -602,6 +626,12 @@
   "securitycraft:recipes/misc/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-06-15 00:11:56 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_planks": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-06-15 00:48:17 +0000"
     },
     "done": true
   },
@@ -911,6 +941,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 00:36:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-14 23:46:57 +0000"
@@ -1073,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-15 00:40:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_white_wool": "2025-06-14 23:42:22 +0000"
@@ -1082,6 +1124,12 @@
   "createdeco:recipes/decorations/copper_bars_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-15 00:12:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-06-15 00:55:25 +0000"
     },
     "done": true
   },
@@ -1280,6 +1328,12 @@
   "bbb:recipes/smooth_stone_layer": {
     "criteria": {
       "has_block": "2025-06-15 00:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-15 00:55:25 +0000"
     },
     "done": true
   },
@@ -1847,6 +1901,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 00:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-15 00:47:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-06-15 00:11:56 +0000"
@@ -2003,6 +2069,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 00:49:41 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/jungle_frame": {
     "criteria": {
       "has_planks": "2025-06-14 23:46:32 +0000"
@@ -2018,6 +2090,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 00:12:22 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_pallet": {
+    "criteria": {
+      "has_planks": "2025-06-15 00:47:37 +0000"
     },
     "done": true
   },
@@ -2066,6 +2144,12 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-06-15 00:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-15 00:41:50 +0000"
     },
     "done": true
   },
@@ -2658,6 +2742,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-06-15 00:52:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-06-14 23:46:32 +0000"
@@ -2703,6 +2793,12 @@
   "bbb:recipes/oak_layer": {
     "criteria": {
       "has_block": "2025-06-15 00:11:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-06-15 00:39:26 +0000"
     },
     "done": true
   },
@@ -2766,6 +2862,12 @@
     },
     "done": true
   },
+  "bbb:recipes/acacia_beam": {
+    "criteria": {
+      "has_log": "2025-06-15 00:47:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_planks": "2025-06-14 23:46:40 +0000"
@@ -2775,6 +2877,12 @@
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-06-15 00:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-15 00:36:57 +0000"
     },
     "done": true
   },
@@ -2817,6 +2925,12 @@
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-06-14 23:42:22 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_wall": {
+    "criteria": {
+      "has_logs": "2025-06-15 00:47:37 +0000"
     },
     "done": true
   },
@@ -2884,6 +2998,12 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-06-14 23:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-15 00:44:19 +0000"
     },
     "done": true
   },
@@ -3043,6 +3163,12 @@
     },
     "done": true
   },
+  "bbb:recipes/acacia_frame": {
+    "criteria": {
+      "has_planks": "2025-06-15 00:47:37 +0000"
+    },
+    "done": true
+  },
   "the_deep_void:the_deep_void_advancement": {
     "criteria": {
       "the_deep_void_advancement_0": "2025-06-14 23:40:24 +0000"
@@ -3064,6 +3190,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_stool": {
     "criteria": {
       "has_white_wool": "2025-06-14 23:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-15 00:41:50 +0000"
     },
     "done": true
   },
@@ -3154,6 +3286,12 @@
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-06-14 23:42:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 00:49:41 +0000"
     },
     "done": true
   },
@@ -3262,6 +3400,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2025-06-14 23:40:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-15 00:53:09 +0000"
     },
     "done": true
   },
@@ -3433,6 +3577,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 00:49:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-14 23:46:52 +0000"
@@ -3460,6 +3610,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-14 23:46:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-06-15 00:36:57 +0000"
     },
     "done": true
   },
@@ -3601,6 +3757,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 00:36:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-15 00:21:44 +0000"
@@ -3682,6 +3844,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
     "criteria": {
       "has_white_wool": "2025-06-14 23:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-15 00:49:41 +0000"
     },
     "done": true
   },
@@ -3787,6 +3955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-15 00:44:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-06-15 00:11:27 +0000"
@@ -3818,7 +3992,8 @@
       "minecraft:stony_shore": "2025-06-15 00:23:06 +0000",
       "minecraft:dripstone_caves": "2025-06-14 23:51:12 +0000",
       "minecraft:forest": "2025-06-14 23:44:30 +0000",
-      "minecraft:savanna": "2025-06-14 23:42:03 +0000"
+      "minecraft:savanna": "2025-06-14 23:42:03 +0000",
+      "minecraft:plains": "2025-06-15 00:50:26 +0000"
     },
     "done": false
   },
@@ -3877,6 +4052,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-06-15 00:55:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-15 00:20:35 +0000"
@@ -3922,6 +4103,12 @@
   "createdeco:recipes/decorations/copper_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-15 00:12:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-06-15 00:55:25 +0000"
     },
     "done": true
   },
