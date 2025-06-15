@@ -16174,3 +16174,36 @@ java.lang.NullPointerException: Cannot invoke "net.smileycorp.hordes.hordeevent.
 [15Jun2025 03:48:57.148] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 5
 [15Jun2025 03:48:57.149] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 5
 [15Jun2025 03:48:57.151] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7118b385]Can't spawn wave because max cap has been reached
+[15Jun2025 03:49:46.480] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[15Jun2025 03:49:47.171] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 5
+[15Jun2025 03:49:47.172] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 5
+[15Jun2025 03:49:47.172] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7118b385]Can't spawn wave because max cap has been reached
+[15Jun2025 03:50:37.147] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 5
+[15Jun2025 03:50:37.148] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 5
+[15Jun2025 03:50:37.150] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7118b385]Can't spawn wave because max cap has been reached
+[15Jun2025 03:51:27.139] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 5
+[15Jun2025 03:51:27.140] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 5
+[15Jun2025 03:51:27.142] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7118b385]Can't spawn wave because max cap has been reached
+[15Jun2025 03:51:35.223] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[15Jun2025 03:51:35.224] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[15Jun2025 03:51:35.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 03:51:35.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 03:52:01.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 was slain by Shadowne_
+[15Jun2025 03:52:02.299] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Jun2025 03:52:13.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['aron121'/9711, l='ServerLevel[world]', x=-753.52, y=107.00, z=-438.52] died: Husk Player was slain by Shadowne_
+[15Jun2025 03:52:29.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Shadowne_'/1, l='ServerLevel[world]', x=2.67, y=168.00, z=13.77] died: Zombie Player was killed
+[15Jun2025 03:52:29.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ was killed
+[15Jun2025 03:52:29.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 was killed
+[15Jun2025 03:52:29.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Killed 456 entities]
+[15Jun2025 03:52:31.034] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Jun2025 03:52:33.428] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Jun2025 03:52:40.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported Shadowne_ to aron121]
+[15Jun2025 03:56:35.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 03:56:35.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 03:57:24.725] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[15Jun2025 03:57:24.726] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[15Jun2025 03:57:57.320] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[15Jun2025 03:57:57.321] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[15Jun2025 03:59:35.389] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=801, y=-58, z=1183}
+[15Jun2025 03:59:41.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[15Jun2025 03:59:44.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
