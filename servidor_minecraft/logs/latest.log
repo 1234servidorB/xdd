@@ -1579,3 +1579,67 @@ java.lang.NullPointerException: Cannot invoke "net.smileycorp.hordes.hordeevent.
 [15Jun2025 03:59:35.389] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=801, y=-58, z=1183}
 [15Jun2025 03:59:41.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
 [15Jun2025 03:59:44.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[15Jun2025 04:00:14.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[15Jun2025 04:01:00.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[15Jun2025 04:01:03.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[15Jun2025 04:01:08.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[15Jun2025 04:01:16.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has made the advancement [Crops of the Wild]
+[15Jun2025 04:02:10.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[15Jun2025 04:02:20.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[15Jun2025 04:05:01.354] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@5248b3de
+[15Jun2025 04:05:01.355] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 5
+[15Jun2025 04:05:01.355] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 5
+[15Jun2025 04:05:09.771] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@5e89ba1f
+[15Jun2025 04:05:09.771] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:05:09.771] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:05:19.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:05:19.669] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:05:28.076] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:05:28.076] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:05:41.703] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:05:41.703] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:05:41.721] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:05:41.721] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:06:09.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[15Jun2025 04:06:42.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[15Jun2025 04:06:48.234] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@56859d18
+[15Jun2025 04:06:48.235] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:06:48.235] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:06:48.273] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:06:48.273] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[15Jun2025 04:09:01.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported Shadowne_ to aron121]
+[15Jun2025 04:11:00.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has made the advancement [Rigged from the Start]
+[15Jun2025 04:12:52.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[15Jun2025 04:13:07.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[15Jun2025 04:13:10.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported aron121 to Shadowne_]
+[15Jun2025 04:13:44.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Rigged from the Start]
+[15Jun2025 04:15:19.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ has made the advancement [Close Quarters]
+[15Jun2025 04:15:49.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[15Jun2025 04:16:02.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[15Jun2025 04:16:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported aron121 to Shadowne_]
+[15Jun2025 04:16:25.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[15Jun2025 04:16:39.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[15Jun2025 04:16:43.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowne_ was kicked for floating too long!
+[15Jun2025 04:16:43.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowne_ lost connection: Flying is not enabled on this server
+[15Jun2025 04:16:43.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ left the game
+[15Jun2025 04:16:43.170] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shadowne_
+[15Jun2025 04:16:43.215] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jun2025 04:17:16.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadowne_[/127.22.166.252:47895] logged in with entity id 19550 at (-1418.5404674271429, 132.2233190161715, -1139.8199785035877)
+[15Jun2025 04:17:16.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ joined the game
+[15Jun2025 04:17:16.492] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Shadowne_
+[15Jun2025 04:17:16.702] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Shadowne_
+[15Jun2025 04:17:16.702] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Shadowne_ (18)
+[15Jun2025 04:17:16.702] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Shadowne_
+[15Jun2025 04:17:38.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[15Jun2025 04:17:45.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Spectator Mode]
+[15Jun2025 04:18:17.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Teleported Shadowne_ to aron121]
+[15Jun2025 04:18:34.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Creative Mode]
+[15Jun2025 04:18:35.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shadowne_: Set own game mode to Survival Mode]
+[15Jun2025 04:19:05.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowne_ was kicked for floating too long!
+[15Jun2025 04:19:05.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shadowne_ lost connection: Flying is not enabled on this server
+[15Jun2025 04:19:05.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ left the game
+[15Jun2025 04:19:05.972] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Shadowne_
+[15Jun2025 04:19:24.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [No Step on Snake]
+[15Jun2025 04:19:49.571] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@591de463[id=<null>,name=Shadowne_,properties={},legacy=false] (/127.22.166.252:44349) lost connection: Disconnected
+[15Jun2025 04:20:08.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shadowne_[/127.22.166.252:40371] logged in with entity id 20646 at (-1432.5406741826757, 88.23527968815392, -1152.1530556519156)
+[15Jun2025 04:20:08.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shadowne_ joined the game

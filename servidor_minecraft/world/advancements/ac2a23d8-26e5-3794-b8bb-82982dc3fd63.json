@@ -85,6 +85,7 @@
       "minecraft:stony_shore": "2025-06-15 00:23:06 +0000",
       "minecraft:dripstone_caves": "2025-06-14 23:51:12 +0000",
       "minecraft:forest": "2025-06-14 23:44:30 +0000",
+      "minecraft:desert": "2025-06-15 04:09:10 +0000",
       "minecraft:savanna": "2025-06-14 23:42:03 +0000",
       "minecraft:plains": "2025-06-15 00:50:26 +0000"
     },
@@ -1788,6 +1789,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-15 03:05:07 +0000",
       "minecraft:spider": "2025-06-15 03:32:14 +0000",
+      "minecraft:husk": "2025-06-15 04:00:06 +0000",
       "minecraft:zombie": "2025-06-14 23:51:28 +0000",
       "minecraft:drowned": "2025-06-15 03:23:39 +0000"
     },
@@ -5983,9 +5985,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-15 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/sandstone_fence": {
+    "criteria": {
+      "has_block": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-06-15 04:09:36 +0000"
     },
     "done": true
   },
@@ -5995,15 +6027,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
       "has_terracotta_medium_pot": "2025-06-15 03:36:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-15 04:10:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sandstone_corner_trim": {
+    "criteria": {
+      "has_red_sandstone_corner_trim": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-15 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 04:09:36 +0000"
     },
     "done": true
   },
@@ -6025,6 +6093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-15 03:36:28 +0000"
@@ -6034,6 +6108,24 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-15 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/smooth_red_sandstone_layer": {
+    "criteria": {
+      "has_block": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 04:09:36 +0000"
     },
     "done": true
   },
@@ -6049,9 +6141,39 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-06-15 04:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/red_sandstone_moulding": {
+    "criteria": {
+      "has_block": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/red_sandstone_urn": {
+    "criteria": {
+      "has_block": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-15 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/red_sandstone_layer": {
+    "criteria": {
+      "has_block": "2025-06-15 04:00:16 +0000"
     },
     "done": true
   },
@@ -6061,9 +6183,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-15 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-15 04:09:53 +0000"
     },
     "done": true
   },
@@ -6085,9 +6219,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-15 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
     },
     "done": true
   },
@@ -6097,9 +6249,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/sandstone_column": {
+    "criteria": {
+      "has_block": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sandstone_pillar_trim": {
+    "criteria": {
+      "has_red_sandstone_pillar_trim": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/red_sandstone_column": {
+    "criteria": {
+      "has_block": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/sandstone_moulding": {
+    "criteria": {
+      "has_block": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/sandstone_layer": {
+    "criteria": {
+      "has_block": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-15 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/sandstone_urn": {
+    "criteria": {
+      "has_block": "2025-06-15 04:09:36 +0000"
     },
     "done": true
   },
@@ -6109,9 +6321,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-06-15 03:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-15 04:00:16 +0000"
     },
     "done": true
   },
@@ -6121,15 +6351,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-15 04:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-15 03:36:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_thick_pot": {
     "criteria": {
       "has_terracotta_thick_pot": "2025-06-15 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-15 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/red_sandstone_fence": {
+    "criteria": {
+      "has_block": "2025-06-15 04:00:16 +0000"
     },
     "done": true
   },
