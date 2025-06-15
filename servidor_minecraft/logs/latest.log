@@ -71,3 +71,19 @@
 [15Jun2025 00:59:32.326] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [15Jun2025 01:00:02.084] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [15Jun2025 01:06:26.322] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:09:06.425] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:09:24.924] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:09:55.775] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:11:53.476] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:14:40.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 has made the advancement [Crops of the Wild]
+[15Jun2025 01:20:16.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/17500, l='ServerLevel[world]', x=-830.52, y=74.00, z=148.42] died, message: 'Fletcher was slain by Zombie'
+[15Jun2025 01:27:30.971] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:27:51.473] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:27:52.422] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:31:05.295] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:31:09.423] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:32:12.478] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:32:41.223] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[15Jun2025 01:33:15.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aron121 fell from a high place
+[15Jun2025 01:33:16.775] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Jun2025 01:35:50.626] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events

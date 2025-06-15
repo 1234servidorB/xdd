@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "bbb:recipes/acacia_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 00:11:56 +0000"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-15 01:12:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 00:11:56 +0000"
@@ -386,6 +398,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-06-15 00:11:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 01:14:02 +0000"
     },
     "done": true
   },
@@ -653,6 +671,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-15 01:12:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
     "criteria": {
       "has_white_wool": "2025-06-14 23:42:22 +0000"
@@ -710,6 +734,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-14 23:46:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 01:14:02 +0000"
     },
     "done": true
   },
@@ -1127,6 +1157,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-06-15 00:55:25 +0000"
@@ -1142,6 +1178,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_leggings": "2025-06-15 00:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-15 01:14:02 +0000"
     },
     "done": true
   },
@@ -1250,6 +1292,12 @@
   "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-06-15 00:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-06-15 01:18:23 +0000"
     },
     "done": true
   },
@@ -1385,6 +1433,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 01:14:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_string": "2025-06-15 00:08:21 +0000"
@@ -1427,9 +1481,21 @@
     },
     "done": true
   },
+  "bbb:recipes/mangrove_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
+    },
+    "done": true
+  },
   "pointblank:recipes/misc/printer": {
     "criteria": {
       "has_iron": "2025-06-15 00:11:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-06-15 01:14:46 +0000"
     },
     "done": true
   },
@@ -1541,6 +1607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-06-15 01:15:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2025-06-14 23:46:40 +0000"
@@ -1552,6 +1624,12 @@
       "has_diamond": "2025-06-15 00:06:49 +0000"
     },
     "done": true
+  },
+  "regrowth:rgroot/teardown": {
+    "criteria": {
+      "has_wall": "2025-06-15 01:12:40 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
@@ -1637,6 +1715,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-06-15 01:18:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_string": "2025-06-15 00:08:21 +0000"
@@ -1676,6 +1760,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-06-14 23:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-15 01:14:02 +0000"
     },
     "done": true
   },
@@ -1769,6 +1859,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-06-15 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 01:14:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 00:11:56 +0000"
@@ -1853,6 +1955,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-06-15 01:14:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_white_wool": "2025-06-14 23:42:22 +0000"
@@ -1916,6 +2024,12 @@
   "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-06-15 00:11:56 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
     },
     "done": true
   },
@@ -2261,6 +2375,18 @@
     },
     "done": true
   },
+  "bbb:recipes/bamboo_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-06-15 00:12:22 +0000"
@@ -2282,6 +2408,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_white_wool": "2025-06-14 23:42:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-06-15 01:14:40 +0000"
     },
     "done": true
   },
@@ -2330,6 +2462,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 00:11:56 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
     },
     "done": true
   },
@@ -2414,6 +2552,18 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 00:11:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-06-15 01:14:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-06-15 01:15:07 +0000"
     },
     "done": true
   },
@@ -2516,6 +2666,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-06-15 00:06:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/crimson_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
     },
     "done": true
   },
@@ -2670,6 +2832,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-06-15 01:14:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-06-15 00:12:22 +0000"
@@ -2715,6 +2883,12 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-06-15 00:16:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 01:14:40 +0000"
     },
     "done": true
   },
@@ -2913,6 +3087,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-06-15 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/spruce_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
     },
     "done": true
   },
@@ -3145,6 +3325,12 @@
     },
     "done": true
   },
+  "bbb:recipes/jungle_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-15 00:21:55 +0000"
@@ -3172,6 +3358,12 @@
   "the_deep_void:the_deep_void_advancement": {
     "criteria": {
       "the_deep_void_advancement_0": "2025-06-14 23:40:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-15 01:15:07 +0000"
     },
     "done": true
   },
@@ -3259,6 +3451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-15 01:14:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2025-06-14 23:46:40 +0000"
@@ -3316,6 +3514,12 @@
   "createdeco:recipes/decorations/iron_support_wedge_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-15 00:11:56 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/warped_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
     },
     "done": true
   },
@@ -3673,6 +3877,12 @@
     },
     "done": true
   },
+  "bbb:recipes/birch_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-06-14 23:46:40 +0000"
@@ -3859,9 +4069,21 @@
     },
     "done": true
   },
+  "bbb:recipes/oak_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-15 01:18:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_couch": {
     "criteria": {
       "has_jungle_couch": "2025-06-14 23:46:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2025-06-15 01:12:22 +0000"
     },
     "done": true
   },
@@ -3898,6 +4120,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
       "has_white_wool": "2025-06-14 23:42:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-06-15 01:14:46 +0000"
     },
     "done": true
   },
@@ -4079,6 +4307,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_string": "2025-06-15 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-06-15 01:15:07 +0000"
     },
     "done": true
   },
