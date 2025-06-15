@@ -86,6 +86,8 @@
       "minecraft:dripstone_caves": "2025-06-14 23:51:12 +0000",
       "minecraft:forest": "2025-06-14 23:44:30 +0000",
       "minecraft:desert": "2025-06-15 04:09:10 +0000",
+      "minecraft:warm_ocean": "2025-06-15 04:29:06 +0000",
+      "minecraft:deep_dark": "2025-06-15 04:35:58 +0000",
       "minecraft:savanna": "2025-06-14 23:42:03 +0000",
       "minecraft:plains": "2025-06-15 00:50:26 +0000"
     },
@@ -6156,6 +6158,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-06-15 04:17:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-06-15 04:29:11 +0000"
     },
     "done": true
   },
