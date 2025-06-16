@@ -48,3 +48,28 @@
 [23:05:14] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
 [23:05:14] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
 [23:08:54] [Async Chat Thread - #4/INFO]: [Not Secure] <Shadowne_> OHH
+[23:09:39] [Server thread/INFO]: Shadowne_ has made the advancement [Acquire Hardware]
+[23:09:53] [Server thread/INFO]: Shadowne_ has made the advancement [Isn't It Iron Pick]
+[23:09:57] [Server thread/INFO]: Shadowne_ has made the advancement [Diamonds!]
+[23:10:57] [Server thread/INFO]: Luisito has made the advancement [Stone Age]
+[23:11:14] [Server thread/INFO]: Shadowne_ has made the advancement [Suit Up]
+[23:11:51] [Server thread/INFO]: Shadowne_ has made the advancement [Not Today, Thank You]
+[23:12:00] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[23:12:00] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[23:12:06] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[23:12:06] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[23:12:42] [Server thread/INFO]: Luisito has made the advancement [Getting an Upgrade]
+[23:12:49] [Server thread/INFO]: Shadowne_ was shot by Skeleton
+[23:12:51] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[23:12:51] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[23:12:52] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
+[23:12:52] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
+[23:13:06] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[23:13:06] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[23:13:29] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[23:13:29] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[23:15:33] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
+[23:15:33] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
+[23:17:00] [Server thread/INFO]: Luisito has made the advancement [Diamonds!]
+[23:17:58] [Async Chat Thread - #6/INFO]: [Not Secure] <Shadowne_> duerme
+[23:18:34] [Server thread/INFO]: Villager EntityVillager['Villager'/1295, uuid='3f5ea8ed-cc78-4f50-a098-fd3277a8db09', l='ServerLevel[world]', x=-402.53, y=81.00, z=198.52, cpos=[-26, 12], tl=16071, v=true] died, message: 'Villager was slain by Luisito'
