@@ -73,3 +73,36 @@
 [23:17:00] [Server thread/INFO]: Luisito has made the advancement [Diamonds!]
 [23:17:58] [Async Chat Thread - #6/INFO]: [Not Secure] <Shadowne_> duerme
 [23:18:34] [Server thread/INFO]: Villager EntityVillager['Villager'/1295, uuid='3f5ea8ed-cc78-4f50-a098-fd3277a8db09', l='ServerLevel[world]', x=-402.53, y=81.00, z=198.52, cpos=[-26, 12], tl=16071, v=true] died, message: 'Villager was slain by Luisito'
+[23:23:31] [Server thread/INFO]: Shadowne_ issued server command: /fill -172 111 320 -214 122 295 air
+[23:23:31] [Server thread/INFO]: [Shadowne_: Successfully filled 5252 block(s)]
+[23:24:21] [Server thread/INFO]: Shadowne_ issued server command: /fill -172 111 320 -214 111 295
+[23:24:31] [Server thread/INFO]: Shadowne_ issued server command: /fill -172 111 320 -214 111 295 dirt
+[23:24:31] [Server thread/INFO]: [Shadowne_: Successfully filled 1116 block(s)]
+[23:24:46] [Server thread/INFO]: Luisito was blown up by Creeper
+[23:25:32] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
+[23:25:32] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
+[23:27:46] [Server thread/INFO]: Shadowne_ issued server command: /fill -181 111 300 -215 120 299 glass
+[23:27:46] [Server thread/INFO]: [Shadowne_: Successfully filled 700 block(s)]
+[23:27:52] [Server thread/INFO]: Shadowne_ issued server command: /fill -181 111 300 -215 120 299 air
+[23:27:52] [Server thread/INFO]: [Shadowne_: Successfully filled 700 block(s)]
+[23:28:05] [User Authenticator #1/INFO]: UUID of player AxelXDw50 is eabb81b0-6912-3337-9fec-9ce87f21428e
+[23:28:05] [Server thread/INFO]: AxelXDw50 joined the game
+[23:28:05] [Server thread/INFO]: AxelXDw50[/127.47.11.236:52525] logged in with entity id 5313 at ([world]-460.9616689358559, 82.0, 209.3826946204985)
+[23:28:11] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[23:28:11] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[23:28:12] [Async Chat Thread - #8/INFO]: [Not Secure] <AxelXDw50> hola
+[23:28:16] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[23:28:16] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[23:28:22] [Async Chat Thread - #9/INFO]: [Not Secure] <Luisito> Axel ayuda al shadow
+[23:28:26] [Server thread/INFO]: Shadowne_ issued server command: /fill -181 111 300 -215 120 299 minecraft:grass_block
+[23:28:26] [Server thread/INFO]: [Shadowne_: Successfully filled 700 block(s)]
+[23:28:27] [Async Chat Thread - #8/INFO]: [Not Secure] <AxelXDw50> donde
+[23:28:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Shadowne_> hola
+[23:28:29] [Async Chat Thread - #8/INFO]: [Not Secure] <Luisito> y hola
+[23:28:45] [Async Chat Thread - #10/INFO]: [Not Secure] <AxelXDw50> agan llamada por el grupo
+[23:28:46] [Server thread/INFO]: Shadowne_ issued server command: /fill -181 111 300 -215 121 295 minecraft:grass_block
+[23:28:46] [Server thread/INFO]: [Shadowne_: Successfully filled 1769 block(s)]
+[23:29:17] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[23:29:17] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[23:29:25] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[23:29:25] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
