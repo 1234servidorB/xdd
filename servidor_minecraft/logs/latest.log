@@ -1,384 +1,129 @@
-[00:00:02] [Server thread/INFO]: AxelXDw50 was slain by Iron Golem
-[00:00:21] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[00:00:21] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[00:01:06] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[00:01:06] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[00:01:13] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[00:01:13] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[00:01:28] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[00:01:28] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[00:02:42] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50
-[00:02:42] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
-[00:04:32] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
-[00:04:32] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
-[00:04:42] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50
-[00:04:42] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
-[00:04:46] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
-[00:04:46] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
-[00:04:51] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[00:04:51] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[00:05:43] [Server thread/INFO]: Shadowne_ was slain by Iron Golem
-[00:05:52] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50
-[00:05:52] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
-[00:11:24] [Server thread/INFO]: Luisito was slain by Shadowne_
-[00:12:24] [Server thread/INFO]: AxelXDw50 was slain by Luisito
-[00:16:01] [Server thread/INFO]: Luisito was slain by AxelXDw50
-[00:16:17] [Server thread/INFO]: Luisito was slain by AxelXDw50
-[00:19:12] [Server thread/INFO]: AxelXDw50 has made the advancement [A Seedy Place]
-[00:20:26] [Server thread/INFO]: Villager EntityVillager['Villager'/1286, uuid='58f3ff8a-c67c-4004-a58c-0ff6b66c74dc', l='ServerLevel[world]', x=-404.47, y=81.00, z=198.05, cpos=[-26, 12], tl=89229, v=true] died, message: 'Villager was slain by Luisito'
-[00:30:43] [Server thread/INFO]: AxelXDw50 was slain by Zombie
-[00:30:44] [Server thread/INFO]: Luisito has made the advancement [Suit Up]
-[00:33:54] [Server thread/INFO]: Luisito was slain by AxelXDw50
-[00:34:15] [Server thread/INFO]: Villager EntityVillager['Villager'/1280, uuid='39006adb-c641-4028-8315-5d1cb5a4b019', l='ServerLevel[world]', x=-440.85, y=81.00, z=208.30, cpos=[-28, 13], tl=106061, v=true] died, message: 'Villager was slain by Zombie'
-[00:34:24] [Server thread/INFO]: Luisito was slain by AxelXDw50
-[00:35:48] [Server thread/INFO]: AxelXDw50 fell from a high place
-[00:36:01] [Server thread/INFO]: Luisito fell from a high place
-[00:36:52] [Server thread/INFO]: Luisito was slain by AxelXDw50
-[00:37:55] [Server thread/INFO]: Shadowne_ was slain by Luisito
-[00:37:56] [Server thread/INFO]: Luisito has made the advancement [Isn't It Iron Pick]
-[00:38:26] [Server thread/INFO]: Shadowne_ lost connection: Timed out
-[00:38:26] [Server thread/INFO]: Shadowne_ left the game
-[00:40:34] [Server thread/INFO]: AxelXDw50 fell from a high place
-[00:51:35] [User Authenticator #2/INFO]: UUID of player Shadowne_ is a846feb1-a590-3c81-a521-bdc6e6e92708
-[00:51:35] [Server thread/INFO]: Shadowne_ joined the game
-[00:51:35] [Server thread/INFO]: Shadowne_[/127.22.166.252:60903] logged in with entity id 22928 at ([world]-409.30000001192093, 67.0, 160.30000001192093)
-[00:51:45] [Server thread/INFO]: AxelXDw50 was shot by Skeleton
-[00:51:55] [Server thread/INFO]: Villager EntityVillager['Villager'/1282, uuid='edccc23b-f011-456c-9a3f-45ef0821758e', l='ServerLevel[world]', x=-470.70, y=83.56, z=199.62, cpos=[-30, 12], tl=126885, v=true] died, message: 'Villager was slain by Zombie'
-[00:51:57] [Server thread/INFO]: Villager EntityVillager['Villager'/1285, uuid='80dad711-9aba-4c9b-a762-3cebf942d90c', l='ServerLevel[world]', x=-472.41, y=83.00, z=200.70, cpos=[-30, 12], tl=126852, v=true] died, message: 'Villager was slain by Zombie Villager'
-[00:52:43] [Server thread/INFO]: Villager EntityVillager['Villager'/1287, uuid='f3ec8596-b8d5-4184-be7a-e7daa4ee322e', l='ServerLevel[world]', x=-404.30, y=84.18, z=238.26, cpos=[-26, 14], tl=126689, v=true] died, message: 'Villager was slain by Zombie'
-[00:54:37] [Server thread/INFO]: Villager EntityVillager['Villager'/1299, uuid='5484aa37-76ba-431d-aeba-ae5a374199ee', l='ServerLevel[world]', x=-401.88, y=76.00, z=177.30, cpos=[-26, 11], tl=129773, v=true] died, message: 'Villager was slain by Luisito'
-[00:56:55] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
-[00:56:55] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
-[00:57:07] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[00:57:07] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[00:57:11] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[00:57:11] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[00:57:49] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50
-[00:57:49] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
-[00:59:36] [Async Chat Thread - #19/INFO]: [Not Secure] <AxelXDw50> no
-[01:00:01] [Server thread/INFO]: Luisito was blown up by Creeper
-[01:00:32] [Async Chat Thread - #20/INFO]: [Not Secure] <AxelXDw50> fue detonado el luis
-[01:00:43] [Async Chat Thread - #19/INFO]: [Not Secure] <Shadowne_> yo lo detone con mi leche organica
-[01:00:50] [Async Chat Thread - #20/INFO]: [Not Secure] <Shadowne_> dire casera
-[01:00:50] [Async Chat Thread - #19/INFO]: [Not Secure] <AxelXDw50> XD
-[01:01:05] [Async Chat Thread - #20/INFO]: [Not Secure] <AxelXDw50> no hablo por que estoy comiendo
-[01:01:17] [Async Chat Thread - #19/INFO]: [Not Secure] <AxelXDw50> no me maten pl
-[01:01:20] [Async Chat Thread - #20/INFO]: [Not Secure] <AxelXDw50> pls
-[01:01:23] [Async Chat Thread - #19/INFO]: [Not Secure] <Shadowne_> yo no hablo por que llego una prima a mi casa
-[01:01:32] [Async Chat Thread - #20/INFO]: [Not Secure] <AxelXDw50> detonala
-[01:01:36] [Server thread/INFO]: Luisito was slain by Iron Golem
-[01:01:41] [Async Chat Thread - #19/INFO]: [Not Secure] <AxelXDw50> XD
-[01:01:42] [Async Chat Thread - #20/INFO]: [Not Secure] <Shadowne_> es una año menor que yo
-[01:01:47] [Async Chat Thread - #20/INFO]: [Not Secure] <Shadowne_> tiene 13 xd
-[01:01:50] [Async Chat Thread - #19/INFO]: [Not Secure] <AxelXDw50> a
-[01:02:15] [Async Chat Thread - #20/INFO]: [Not Secure] <Shadowne_> traigan cariñosas
-[01:03:36] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:03:36] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:03:44] [Async Chat Thread - #21/INFO]: [Not Secure] <AxelXDw50> si
-[01:03:56] [Async Chat Thread - #22/INFO]: [Not Secure] <AxelXDw50> un escudo o hrmadura
-[01:04:02] [Async Chat Thread - #21/INFO]: [Not Secure] <AxelXDw50> harmadura
-[01:04:03] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:04:03] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:04:06] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50
-[01:04:06] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
-[01:04:08] [Async Chat Thread - #22/INFO]: [Not Secure] <AxelXDw50> no tengo
-[01:04:16] [Async Chat Thread - #21/INFO]: [Not Secure] <AxelXDw50> gracias
-[01:04:26] [Async Chat Thread - #23/INFO]: [Not Secure] <AxelXDw50> se me rompio de morir tanto
-[01:05:07] [Async Chat Thread - #21/INFO]: [Not Secure] <AxelXDw50> y por q al luis no
-[01:05:20] [Async Chat Thread - #22/INFO]: [Not Secure] <AxelXDw50> pero dale un espadazo
-[01:05:22] [Async Chat Thread - #23/INFO]: [Not Secure] <Shadowne_> ohhh me coro
-[01:06:05] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
-[01:06:05] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
-[01:06:09] [Async Chat Thread - #22/INFO]: [Not Secure] <AxelXDw50> aver
-[01:06:24] [Async Chat Thread - #23/INFO]: [Not Secure] <AxelXDw50> cuanto
-[01:06:25] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:06:25] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:06:30] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:06:30] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:06:49] [Async Chat Thread - #22/INFO]: [Not Secure] <AxelXDw50> ayudaaaaaaaa
-[01:06:57] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:06:57] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:07:01] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:07:01] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:07:34] [Server thread/INFO]: AxelXDw50 has made the advancement [Sneak 100]
-[01:07:37] [Server thread/INFO]: Shadowne_ has made the advancement [Sneak 100]
-[01:07:53] [Server thread/INFO]: Luisito has made the advancement [Sneak 100]
-[01:08:10] [Async Chat Thread - #24/INFO]: [Not Secure] <AxelXDw50> ayuda
-[01:08:52] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:08:52] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:08:56] [Async Chat Thread - #25/INFO]: [Not Secure] <AxelXDw50> Yo lo necesito
-[01:09:09] [Async Chat Thread - #24/INFO]: [Not Secure] <AxelXDw50> fue el luis
-[01:10:15] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
-[01:10:15] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
-[01:10:18] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:10:18] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:10:20] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:10:20] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:10:23] [Async Chat Thread - #26/INFO]: [Not Secure] <AxelXDw50> tp
-[01:10:48] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
-[01:10:48] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
-[01:11:06] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:11:06] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:11:08] [Server thread/WARN]: Luisito moved wrongly!
-[01:11:59] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
-[01:11:59] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
-[01:12:09] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:12:09] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:12:10] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:12:10] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:12:29] [Server thread/INFO]: Shadowne_ has made the advancement [Cover Me with Diamonds]
-[01:12:49] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
-[01:12:49] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
-[01:13:19] [Server thread/INFO]: Luisito was doomed to fall by Warden
-[01:13:24] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
-[01:13:24] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
-[01:13:28] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50
-[01:13:28] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
-[01:13:32] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
-[01:13:32] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
-[01:13:35] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:13:35] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:14:26] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
-[01:14:26] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
-[01:14:33] [Server thread/INFO]: Luisito was obliterated by a sonically-charged shriek
-[01:14:34] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:14:34] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:14:36] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:14:36] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:14:48] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
-[01:14:48] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
-[01:15:08] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:15:08] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:15:36] [Server thread/INFO]: Luisito was obliterated by a sonically-charged shriek
-[01:15:38] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
-[01:15:38] [Server thread/INFO]: Attempt to teleport removed player Luisito restricted
-[01:15:38] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
-[01:15:39] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
-[01:15:39] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
-[01:16:31] [Server thread/INFO]: Luisito was obliterated by a sonically-charged shriek
-[01:16:33] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
-[01:16:33] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
-[01:16:56] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:16:56] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:17:01] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:17:01] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:17:25] [Server thread/INFO]: Luisito was obliterated by a sonically-charged shriek
-[01:17:28] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:17:28] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:17:36] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
-[01:17:36] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
-[01:18:09] [Server thread/INFO]: Shadowne_ has completed the challenge [It Spreads]
-[01:18:11] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:18:11] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:19:26] [Async Chat Thread - #28/INFO]: [Not Secure] <Luisito> ya vamonos
-[01:19:36] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
-[01:19:36] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
-[01:19:36] [Async Chat Thread - #29/INFO]: [Not Secure] <Luisito> si
-[01:19:40] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:19:40] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:19:51] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
-[01:19:51] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
-[01:19:56] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[01:19:56] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[01:20:14] [Server thread/INFO]: AxelXDw50 was slain by Warden
-[01:20:22] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[01:20:22] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[01:20:23] [Server thread/INFO]: Luisito was slain by Warden
-[01:20:34] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
-[01:20:34] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
-[01:20:35] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:20:35] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:20:38] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
-[01:20:38] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
-[01:20:43] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:20:43] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:20:44] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:20:44] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:20:47] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[01:20:47] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[01:20:48] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
-[01:20:48] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
-[01:21:13] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
-[01:21:13] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
-[01:21:18] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:21:18] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:21:36] [Server thread/INFO]: AxelXDw50 was obliterated by a sonically-charged shriek
-[01:21:45] [Server thread/INFO]: Luisito was slain by Warden
-[01:22:03] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
-[01:22:03] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
-[01:22:15] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:22:15] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:22:16] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:22:16] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:22:24] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:22:24] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:22:33] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:22:33] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:22:45] [Server thread/INFO]: Luisito was slain by Warden
-[01:23:11] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[01:23:11] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[01:23:16] [Server thread/INFO]: AxelXDw50 has made the advancement [Diamonds!]
-[01:23:18] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:23:18] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:23:24] [Server thread/INFO]: AxelXDw50 was slain by Warden
-[01:23:43] [Server thread/INFO]: Luisito was slain by Warden
-[01:23:51] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:23:51] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:24:22] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:24:22] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:24:26] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:24:26] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:24:48] [Server thread/INFO]: AxelXDw50 was slain by Warden
-[01:25:46] [Server thread/INFO]: Luisito was obliterated by a sonically-charged shriek
-[01:26:05] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
-[01:26:05] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
-[01:26:26] [Server thread/INFO]: Luisito was slain by Iron Golem
-[01:26:42] [Server thread/INFO]: AxelXDw50 was slain by Iron Golem
-[01:26:44] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:26:44] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:26:45] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:26:45] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:26:45] [Server thread/INFO]: Luisito was slain by Iron Golem
-[01:26:46] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:26:46] [Server thread/INFO]: Attempt to teleport removed player Luisito restricted
-[01:26:46] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:26:50] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:26:50] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:26:51] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:26:51] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:27:56] [Server thread/INFO]: AxelXDw50 has made the advancement [Cover Me with Diamonds]
-[01:29:01] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:29:01] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:29:07] [Server thread/INFO]: Shadowne_ issued server command: /gamemode adventure
-[01:29:07] [Server thread/INFO]: [Shadowne_: Set own game mode to Adventure Mode]
-[01:30:26] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:30:26] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:30:27] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:30:27] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:30:37] [Server thread/INFO]: Luisito was slain by AxelXDw50
-[01:31:11] [Server thread/INFO]: Shadowne_ was shot by Skeleton
-[01:31:15] [Server thread/INFO]: AxelXDw50 was shot by Skeleton
-[01:31:16] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[01:31:16] [Server thread/INFO]: Attempt to teleport removed player AxelXDw50 restricted
-[01:31:16] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[01:31:19] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
-[01:31:19] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
-[01:31:36] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
-[01:31:36] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
-[01:32:03] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
-[01:32:03] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
-[01:32:07] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50
-[01:32:07] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
-[01:32:27] [Async Chat Thread - #30/INFO]: [Not Secure] <Luisito> n
-[01:33:13] [Server thread/INFO]: AxelXDw50 was blown up by Creeper
-[01:33:28] [Async Chat Thread - #32/INFO]: [Not Secure] <Shadowne_> doruenrjiken a
-[01:33:45] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[01:33:45] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[01:33:49] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[01:33:49] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[01:33:51] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[01:33:51] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[01:33:53] [Server thread/INFO]: AxelXDw50 fell from a high place
-[01:33:53] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
-[01:33:53] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[01:34:19] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:34:19] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:34:37] [Server thread/INFO]: AxelXDw50 was blown up by Creeper
-[01:34:44] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:34:44] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:36:54] [Server thread/INFO]: Luisito was slain by Shadowne_
-[01:37:14] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:37:14] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:40:07] [Server thread/INFO]: Luisito was shot by Skeleton
-[01:40:56] [Server thread/INFO]: Luisito was slain by AxelXDw50
-[01:43:00] [Server thread/INFO]: Luisito was slain by AxelXDw50
-[01:44:31] [Server thread/INFO]: Luisito was slain by AxelXDw50
-[01:44:40] [Server thread/INFO]: Luisito was slain by Shadowne_
-[01:44:43] [Server thread/INFO]: AxelXDw50 was slain by Shadowne_
-[01:44:45] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:44:45] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:44:59] [Async Chat Thread - #34/INFO]: [Not Secure] <AxelXDw50> wa
-[01:45:11] [Async Chat Thread - #35/INFO]: [Not Secure] <AxelXDw50> hacino era
-[01:45:28] [Async Chat Thread - #34/INFO]: [Not Secure] <AxelXDw50> aaaç
-[01:45:44] [Async Chat Thread - #35/INFO]: [Not Secure] <AxelXDw50> w
-[01:46:01] [Async Chat Thread - #34/INFO]: [Not Secure] <Shadowne_> rapido decidan antes que empieze a destrozar con tnts esto
-[01:46:37] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
-[01:46:37] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
-[01:46:51] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:46:51] [Server thread/INFO]: [Shadowne_: Successfully filled 27000 block(s)]
-[01:46:57] [Server thread/INFO]: AxelXDw50 was blown up by Shadowne_
-[01:46:58] [Server thread/INFO]: Luisito was blown up by Shadowne_
-[01:47:05] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:47:05] [Server thread/INFO]: [Shadowne_: Successfully filled 26689 block(s)]
-[01:47:10] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:47:10] [Server thread/INFO]: Attempt to teleport removed player Luisito restricted
-[01:47:10] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:47:13] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:47:13] [Server thread/INFO]: Attempt to teleport removed player Luisito restricted
-[01:47:13] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:47:14] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:47:14] [Server thread/INFO]: Attempt to teleport removed player Luisito restricted
-[01:47:14] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:47:18] [Server thread/INFO]: AxelXDw50 was shot by Skeleton
-[01:47:22] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative @a
-[01:47:22] [Server thread/INFO]: [Shadowne_: Set Luisito's game mode to Creative Mode]
-[01:47:22] [Server thread/INFO]: [Shadowne_: Set AxelXDw50's game mode to Creative Mode]
-[01:47:24] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:47:24] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
-[01:47:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
-[01:48:00] [Server thread/INFO]: Luisito lost connection: Disconnected
-[01:48:00] [Server thread/INFO]: Luisito left the game
-[01:48:03] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:48:03] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
-[01:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10347ms or 206 ticks behind
-[01:48:23] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:48:23] [Server thread/INFO]: [Shadowne_: Successfully filled 27000 block(s)]
-[01:48:46] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:48:46] [Server thread/INFO]: [Shadowne_: Successfully filled 27000 block(s)]
-[01:48:50] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tntw
-[01:48:51] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tntw
-[01:48:53] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:48:53] [Server thread/INFO]: [Shadowne_: Successfully filled 20445 block(s)]
-[01:48:54] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:48:54] [Server thread/INFO]: [Shadowne_: Successfully filled 3585 block(s)]
-[01:48:55] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:48:55] [Server thread/INFO]: [Shadowne_: Successfully filled 7410 block(s)]
-[01:48:57] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:48:57] [Server thread/INFO]: [Shadowne_: Successfully filled 6360 block(s)]
-[01:48:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
-[01:48:59] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:00] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:00] [Server thread/INFO]: [Shadowne_: Successfully filled 4020 block(s)]
-[01:49:01] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:01] [Server thread/INFO]: [Shadowne_: Successfully filled 6350 block(s)]
-[01:49:02] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:02] [Server thread/INFO]: [Shadowne_: Successfully filled 4897 block(s)]
-[01:49:05] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:05] [Server thread/INFO]: [Shadowne_: Successfully filled 5010 block(s)]
-[01:49:07] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:07] [Server thread/INFO]: [Shadowne_: Successfully filled 4974 block(s)]
-[01:49:09] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:09] [Server thread/INFO]: [Shadowne_: Successfully filled 9882 block(s)]
-[01:49:10] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:10] [Server thread/INFO]: [Shadowne_: Successfully filled 8657 block(s)]
-[01:49:12] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:12] [Server thread/INFO]: [Shadowne_: Successfully filled 1784 block(s)]
-[01:49:13] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:13] [Server thread/INFO]: [Shadowne_: Successfully filled 4208 block(s)]
-[01:49:17] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:49:17] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
-[01:49:24] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:49:24] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
-[01:49:25] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:49:25] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
-[01:49:27] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:27] [Server thread/INFO]: [Shadowne_: Successfully filled 3053 block(s)]
-[01:49:35] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:35] [Server thread/INFO]: [Shadowne_: Successfully filled 7917 block(s)]
-[01:49:46] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
-[01:49:46] [Server thread/INFO]: [Shadowne_: Successfully filled 27000 block(s)]
-[01:49:48] [Server thread/INFO]: Villager EntityVillager['Farmer'/1298, uuid='f4e658c4-0ad2-49fc-a41c-7ab15a3b0d08', l='ServerLevel[world]', x=-384.21, y=99.00, z=225.50, cpos=[-25, 14], tl=167968, v=true] died, message: 'Farmer suffocated in a wall'
-[01:50:08] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:50:08] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
-[01:50:35] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
-[01:50:35] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
+[02:51:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:51:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:51:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:51:19] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[02:51:19] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[02:51:19] [main/INFO] [FML]: Searching /workspaces/xdd/servidor_minecraft/./mods for mods
+[02:51:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:51:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:51:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:51:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:51:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:51:20] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[02:51:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:51:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:51:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:51:21] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[02:51:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[02:51:24] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[02:51:24] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[02:51:24] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[02:51:24] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[02:51:24] [Server thread/INFO] [FML]: Config directory created successfully
+[02:51:24] [Server thread/INFO] [FML]: Searching /workspaces/xdd/servidor_minecraft/./mods for mods
+[02:51:24] [Server thread/INFO] [FML]: Mod geckolib3 is missing the required element 'name'. Substituting geckolib3
+[02:51:24] [Server thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+[02:51:24] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[02:51:24] [Server thread/WARN] [FML]: Missing English translation for geckolib3: assets/geckolib3/lang/en_us.lang
+[02:51:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, sexmod, geckolib3] at CLIENT
+[02:51:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, sexmod, geckolib3] at SERVER
+[02:51:25] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[02:51:25] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[02:51:25] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[02:51:25] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[02:51:25] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[02:51:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[02:51:25] [Server thread/INFO] [FML]: Applying holder lookups
+[02:51:25] [Server thread/INFO] [FML]: Holder lookups applied
+[02:51:25] [Server thread/INFO] [FML]: Applying holder lookups
+[02:51:25] [Server thread/INFO] [FML]: Holder lookups applied
+[02:51:25] [Server thread/INFO] [FML]: Applying holder lookups
+[02:51:25] [Server thread/INFO] [FML]: Holder lookups applied
+[02:51:25] [Server thread/INFO] [FML]: Applying holder lookups
+[02:51:25] [Server thread/INFO] [FML]: Holder lookups applied
+[02:51:25] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:51:25] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:51:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[02:51:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[02:51:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[02:51:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[02:51:26] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[02:51:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:51:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[02:51:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:51:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:51:26] [Server thread/INFO] [FML]: Applying holder lookups
+[02:51:26] [Server thread/INFO] [FML]: Holder lookups applied
+[02:51:26] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.cf from class com.trolmastercard.sexmod.ci
+[02:51:26] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[02:51:26] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:51:26] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:51:26] [Server thread/INFO] [sexmod]: loading up custom models...
+[02:51:26] [Server thread/INFO] [sexmod]: found 0 custom model(s)
+[02:51:26] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
+[02:51:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[02:51:26] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:51:26] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:51:26] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@5103af4e)
+[02:51:27] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:51:27] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[02:51:27] [Netty Epoll Server IO #4/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:51:27] [Netty Epoll Server IO #5/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:51:27] [Netty Epoll Server IO #6/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:51:27] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5103af4e)
+[02:51:27] [Netty Epoll Server IO #7/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:51:27] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5103af4e)
+[02:51:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[02:51:27] [Netty Epoll Server IO #0/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:51:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
+[02:51:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 19%
+[02:51:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 32%
+[02:51:30] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.cf from class com.trolmastercard.sexmod.cu
+[02:51:30] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:51:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 48%
+[02:51:31] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:51:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 71%
+[02:51:33] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:51:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 95%
+[02:51:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7.141s)! For help, type "help" or "?"
+[02:51:34] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:51:34] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:51:44] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[02:51:44] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
+[02:51:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:51:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowne_[/127.22.166.252:47225] logged in with entity id 1547 at (-255.5, 71.0, 77.5)
+[02:51:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ joined the game
+[02:51:46] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:51:46] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
+[02:51:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:51:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:46281] logged in with entity id 1862 at (-252.5, 71.0, 74.5)
+[02:51:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
+[02:52:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped @a
+[02:52:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Shadowne_
+[02:52:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set AxelXDw50's game mode to Creative Mode]
+[02:52:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set own game mode to Creative Mode]
+[02:52:41] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.cf from class com.trolmastercard.sexmod.ch
+[02:53:37] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-245.50081534411476, 70.94249999523163, 59.00805216976046)
+[02:54:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 has made the advancement [Diamonds!]
+[02:55:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Shadowne_ moved too quickly! -6.505756762356668,0.0,-8.620517025354227
+[02:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
+[02:57:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ has made the advancement [Diamonds!]
+[02:59:10] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-483.63803184858443, 61.87999999523163, -411.05399387306596)
+[03:00:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
+[03:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 fell out of the world
+[03:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Killed AxelXDw50]
+[03:00:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
+[03:00:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AxelXDw50 lost connection: Disconnected
+[03:00:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 left the game
+[03:00:40] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[03:00:40] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
+[03:00:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:00:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:52257] logged in with entity id 13684 at (-505.9865958120975, 70.02726012161212, -419.17550699337335)
+[03:00:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
+[03:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set the time to 1000]
+[03:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AxelXDw50> t
+[03:06:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ has made the advancement [Ice Bucket Challenge]
+[03:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ fell out of the world
+[03:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Killed Shadowne_]
+[03:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
