@@ -291,3 +291,94 @@
 [01:37:14] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
 [01:40:07] [Server thread/INFO]: Luisito was shot by Skeleton
 [01:40:56] [Server thread/INFO]: Luisito was slain by AxelXDw50
+[01:43:00] [Server thread/INFO]: Luisito was slain by AxelXDw50
+[01:44:31] [Server thread/INFO]: Luisito was slain by AxelXDw50
+[01:44:40] [Server thread/INFO]: Luisito was slain by Shadowne_
+[01:44:43] [Server thread/INFO]: AxelXDw50 was slain by Shadowne_
+[01:44:45] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:44:45] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
+[01:44:59] [Async Chat Thread - #34/INFO]: [Not Secure] <AxelXDw50> wa
+[01:45:11] [Async Chat Thread - #35/INFO]: [Not Secure] <AxelXDw50> hacino era
+[01:45:28] [Async Chat Thread - #34/INFO]: [Not Secure] <AxelXDw50> aaaç
+[01:45:44] [Async Chat Thread - #35/INFO]: [Not Secure] <AxelXDw50> w
+[01:46:01] [Async Chat Thread - #34/INFO]: [Not Secure] <Shadowne_> rapido decidan antes que empieze a destrozar con tnts esto
+[01:46:37] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[01:46:37] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[01:46:51] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:46:51] [Server thread/INFO]: [Shadowne_: Successfully filled 27000 block(s)]
+[01:46:57] [Server thread/INFO]: AxelXDw50 was blown up by Shadowne_
+[01:46:58] [Server thread/INFO]: Luisito was blown up by Shadowne_
+[01:47:05] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:47:05] [Server thread/INFO]: [Shadowne_: Successfully filled 26689 block(s)]
+[01:47:10] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:47:10] [Server thread/INFO]: Attempt to teleport removed player Luisito restricted
+[01:47:10] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
+[01:47:13] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:47:13] [Server thread/INFO]: Attempt to teleport removed player Luisito restricted
+[01:47:13] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
+[01:47:14] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:47:14] [Server thread/INFO]: Attempt to teleport removed player Luisito restricted
+[01:47:14] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
+[01:47:18] [Server thread/INFO]: AxelXDw50 was shot by Skeleton
+[01:47:22] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative @a
+[01:47:22] [Server thread/INFO]: [Shadowne_: Set Luisito's game mode to Creative Mode]
+[01:47:22] [Server thread/INFO]: [Shadowne_: Set AxelXDw50's game mode to Creative Mode]
+[01:47:24] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:47:24] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
+[01:47:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
+[01:48:00] [Server thread/INFO]: Luisito lost connection: Disconnected
+[01:48:00] [Server thread/INFO]: Luisito left the game
+[01:48:03] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:48:03] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
+[01:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10347ms or 206 ticks behind
+[01:48:23] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:48:23] [Server thread/INFO]: [Shadowne_: Successfully filled 27000 block(s)]
+[01:48:46] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:48:46] [Server thread/INFO]: [Shadowne_: Successfully filled 27000 block(s)]
+[01:48:50] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tntw
+[01:48:51] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tntw
+[01:48:53] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:48:53] [Server thread/INFO]: [Shadowne_: Successfully filled 20445 block(s)]
+[01:48:54] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:48:54] [Server thread/INFO]: [Shadowne_: Successfully filled 3585 block(s)]
+[01:48:55] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:48:55] [Server thread/INFO]: [Shadowne_: Successfully filled 7410 block(s)]
+[01:48:57] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:48:57] [Server thread/INFO]: [Shadowne_: Successfully filled 6360 block(s)]
+[01:48:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[01:48:59] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:00] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:00] [Server thread/INFO]: [Shadowne_: Successfully filled 4020 block(s)]
+[01:49:01] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:01] [Server thread/INFO]: [Shadowne_: Successfully filled 6350 block(s)]
+[01:49:02] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:02] [Server thread/INFO]: [Shadowne_: Successfully filled 4897 block(s)]
+[01:49:05] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:05] [Server thread/INFO]: [Shadowne_: Successfully filled 5010 block(s)]
+[01:49:07] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:07] [Server thread/INFO]: [Shadowne_: Successfully filled 4974 block(s)]
+[01:49:09] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:09] [Server thread/INFO]: [Shadowne_: Successfully filled 9882 block(s)]
+[01:49:10] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:10] [Server thread/INFO]: [Shadowne_: Successfully filled 8657 block(s)]
+[01:49:12] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:12] [Server thread/INFO]: [Shadowne_: Successfully filled 1784 block(s)]
+[01:49:13] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:13] [Server thread/INFO]: [Shadowne_: Successfully filled 4208 block(s)]
+[01:49:17] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:49:17] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
+[01:49:24] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:49:24] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
+[01:49:25] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:49:25] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
+[01:49:27] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:27] [Server thread/INFO]: [Shadowne_: Successfully filled 3053 block(s)]
+[01:49:35] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:35] [Server thread/INFO]: [Shadowne_: Successfully filled 7917 block(s)]
+[01:49:46] [Server thread/INFO]: Shadowne_ issued server command: /fill ~1 ~1 ~1 ~30 ~30 ~30 minecraft:tnt
+[01:49:46] [Server thread/INFO]: [Shadowne_: Successfully filled 27000 block(s)]
+[01:49:48] [Server thread/INFO]: Villager EntityVillager['Farmer'/1298, uuid='f4e658c4-0ad2-49fc-a41c-7ab15a3b0d08', l='ServerLevel[world]', x=-384.21, y=99.00, z=225.50, cpos=[-25, 14], tl=167968, v=true] died, message: 'Farmer suffocated in a wall'
+[01:50:08] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:50:08] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
+[01:50:35] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:50:35] [Server thread/INFO]: [Shadowne_: Teleported 2 entities to Shadowne_]
