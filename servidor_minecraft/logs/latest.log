@@ -187,3 +187,26 @@
 [03:21:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [03:21:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowne_[/127.22.166.252:54949] logged in with entity id 30120 at (-505.5818881948051, 64.0, -419.7847527302832)
 [03:21:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ joined the game
+[03:22:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ has made the advancement [Monster Hunter]
+[03:22:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set own game mode to Creative Mode]
+[03:23:44] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-507.30584103608084, 62.2, -426.196974882457)
+[03:25:22] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-506.9517224833265, 63.0, -426.796641354331)
+[03:25:22] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-506.9517224833265, 63.0, -426.796641354331)
+[03:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AxelXDw50> q
+[03:29:32] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
+[03:29:38] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-507.39036193640214, 63.0, -427.62546427520147)
+[03:29:39] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
+[03:29:40] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-507.39036193640214, 63.0, -427.62546427520147)
+[03:29:41] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
+[03:29:44] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-507.39036193640214, 63.0, -427.62546427520147)
+[03:29:45] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
+[03:29:58] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
+[03:30:00] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
+[03:30:01] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
+[03:31:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AxelXDw50 lost connection: Disconnected
+[03:31:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 left the game
+[03:31:27] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[03:31:27] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
+[03:31:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:31:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:50559] logged in with entity id 36811 at (-505.5, 63.0, -427.9)
+[03:31:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
