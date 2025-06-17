@@ -306,7 +306,8 @@
       "cooked_beef": "2025-06-16 00:40:06 +0000",
       "beef": "2025-06-16 00:24:15 +0000",
       "porkchop": "2025-06-16 00:31:12 +0000",
-      "rotten_flesh": "2025-06-16 00:16:43 +0000"
+      "rotten_flesh": "2025-06-16 00:16:43 +0000",
+      "enchanted_golden_apple": "2025-06-17 01:17:05 +0000"
     },
     "done": false
   },
@@ -1564,6 +1565,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-17 01:18:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-17 01:10:03 +0000"
@@ -1573,6 +1580,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-17 01:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-17 01:22:43 +0000"
     },
     "done": true
   },
@@ -1615,6 +1628,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-17 01:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-06-17 01:22:30 +0000"
     },
     "done": true
   },
@@ -1678,6 +1697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-06-17 01:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-17 01:10:10 +0000"
@@ -1705,6 +1730,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-06-17 01:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-17 01:16:59 +0000"
     },
     "done": true
   },
