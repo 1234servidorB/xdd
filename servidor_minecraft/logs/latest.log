@@ -256,3 +256,38 @@
 [01:30:27] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
 [01:30:27] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
 [01:30:37] [Server thread/INFO]: Luisito was slain by AxelXDw50
+[01:31:11] [Server thread/INFO]: Shadowne_ was shot by Skeleton
+[01:31:15] [Server thread/INFO]: AxelXDw50 was shot by Skeleton
+[01:31:16] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
+[01:31:16] [Server thread/INFO]: Attempt to teleport removed player AxelXDw50 restricted
+[01:31:16] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
+[01:31:19] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
+[01:31:19] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
+[01:31:36] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[01:31:36] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[01:32:03] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
+[01:32:03] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
+[01:32:07] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50
+[01:32:07] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
+[01:32:27] [Async Chat Thread - #30/INFO]: [Not Secure] <Luisito> n
+[01:33:13] [Server thread/INFO]: AxelXDw50 was blown up by Creeper
+[01:33:28] [Async Chat Thread - #32/INFO]: [Not Secure] <Shadowne_> doruenrjiken a
+[01:33:45] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
+[01:33:45] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
+[01:33:49] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
+[01:33:49] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
+[01:33:51] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
+[01:33:51] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
+[01:33:53] [Server thread/INFO]: AxelXDw50 fell from a high place
+[01:33:53] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
+[01:33:53] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
+[01:34:19] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:34:19] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
+[01:34:37] [Server thread/INFO]: AxelXDw50 was blown up by Creeper
+[01:34:44] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:34:44] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
+[01:36:54] [Server thread/INFO]: Luisito was slain by Shadowne_
+[01:37:14] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:37:14] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
+[01:40:07] [Server thread/INFO]: Luisito was shot by Skeleton
+[01:40:56] [Server thread/INFO]: Luisito was slain by AxelXDw50
