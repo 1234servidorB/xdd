@@ -1,4 +1,22 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-17 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-17 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-06-17 03:35:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-06-17 02:54:59 +0000"
@@ -271,6 +289,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-06-17 02:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-17 03:35:24 +0000"
     },
     "done": true
   },
