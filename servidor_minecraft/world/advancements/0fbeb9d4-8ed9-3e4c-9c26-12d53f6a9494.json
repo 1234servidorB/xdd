@@ -12,6 +12,7 @@
       "minecraft:sunflower_plains": "2025-06-16 00:24:35 +0000",
       "minecraft:river": "2025-06-16 23:54:26 +0000",
       "minecraft:forest": "2025-06-16 23:06:08 +0000",
+      "minecraft:deep_dark": "2025-06-17 01:07:34 +0000",
       "minecraft:plains": "2025-06-16 00:24:27 +0000"
     },
     "done": false
@@ -599,6 +600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-06-17 01:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-06-17 00:30:44 +0000"
@@ -917,6 +924,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-17 01:07:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-17 00:37:56 +0000"
@@ -983,9 +996,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-06-17 01:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-06-16 23:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-06-17 01:07:08 +0000"
     },
     "done": true
   },
