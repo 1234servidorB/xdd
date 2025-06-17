@@ -115,3 +115,84 @@
 [01:10:20] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
 [01:10:20] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
 [01:10:23] [Async Chat Thread - #26/INFO]: [Not Secure] <AxelXDw50> tp
+[01:10:48] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
+[01:10:48] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
+[01:11:06] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[01:11:06] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[01:11:08] [Server thread/WARN]: Luisito moved wrongly!
+[01:11:59] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
+[01:11:59] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
+[01:12:09] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[01:12:09] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[01:12:10] [Server thread/INFO]: Shadowne_ issued server command: /tp @a Shadowne_
+[01:12:10] [Server thread/INFO]: [Shadowne_: Teleported 3 entities to Shadowne_]
+[01:12:29] [Server thread/INFO]: Shadowne_ has made the advancement [Cover Me with Diamonds]
+[01:12:49] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
+[01:12:49] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
+[01:13:19] [Server thread/INFO]: Luisito was doomed to fall by Warden
+[01:13:24] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
+[01:13:24] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
+[01:13:28] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50
+[01:13:28] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
+[01:13:32] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
+[01:13:32] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
+[01:13:35] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[01:13:35] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[01:14:26] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
+[01:14:26] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
+[01:14:33] [Server thread/INFO]: Luisito was obliterated by a sonically-charged shriek
+[01:14:34] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[01:14:34] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[01:14:36] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[01:14:36] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[01:14:48] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
+[01:14:48] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
+[01:15:08] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[01:15:08] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[01:15:36] [Server thread/INFO]: Luisito was obliterated by a sonically-charged shriek
+[01:15:38] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
+[01:15:38] [Server thread/INFO]: Attempt to teleport removed player Luisito restricted
+[01:15:38] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
+[01:15:39] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
+[01:15:39] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
+[01:16:31] [Server thread/INFO]: Luisito was obliterated by a sonically-charged shriek
+[01:16:33] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
+[01:16:33] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
+[01:16:56] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[01:16:56] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[01:17:01] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[01:17:01] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[01:17:25] [Server thread/INFO]: Luisito was obliterated by a sonically-charged shriek
+[01:17:28] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[01:17:28] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[01:17:36] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
+[01:17:36] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
+[01:18:09] [Server thread/INFO]: Shadowne_ has completed the challenge [It Spreads]
+[01:18:11] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[01:18:11] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[01:19:26] [Async Chat Thread - #28/INFO]: [Not Secure] <Luisito> ya vamonos
+[01:19:36] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
+[01:19:36] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
+[01:19:36] [Async Chat Thread - #29/INFO]: [Not Secure] <Luisito> si
+[01:19:40] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[01:19:40] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[01:19:51] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito Shadowne_
+[01:19:51] [Server thread/INFO]: [Shadowne_: Teleported Luisito to Shadowne_]
+[01:19:56] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
+[01:19:56] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
+[01:20:14] [Server thread/INFO]: AxelXDw50 was slain by Warden
+[01:20:22] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
+[01:20:22] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
+[01:20:23] [Server thread/INFO]: Luisito was slain by Warden
+[01:20:34] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
+[01:20:34] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
+[01:20:35] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[01:20:35] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[01:20:38] [Server thread/INFO]: Shadowne_ issued server command: /gamemode spectator
+[01:20:38] [Server thread/INFO]: [Shadowne_: Set own game mode to Spectator Mode]
+[01:20:43] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[01:20:43] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[01:20:44] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[01:20:44] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[01:20:47] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50 Shadowne_
+[01:20:47] [Server thread/INFO]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
