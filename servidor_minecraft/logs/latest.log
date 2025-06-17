@@ -39,3 +39,22 @@
 [00:38:26] [Server thread/INFO]: Shadowne_ lost connection: Timed out
 [00:38:26] [Server thread/INFO]: Shadowne_ left the game
 [00:40:34] [Server thread/INFO]: AxelXDw50 fell from a high place
+[00:51:35] [User Authenticator #2/INFO]: UUID of player Shadowne_ is a846feb1-a590-3c81-a521-bdc6e6e92708
+[00:51:35] [Server thread/INFO]: Shadowne_ joined the game
+[00:51:35] [Server thread/INFO]: Shadowne_[/127.22.166.252:60903] logged in with entity id 22928 at ([world]-409.30000001192093, 67.0, 160.30000001192093)
+[00:51:45] [Server thread/INFO]: AxelXDw50 was shot by Skeleton
+[00:51:55] [Server thread/INFO]: Villager EntityVillager['Villager'/1282, uuid='edccc23b-f011-456c-9a3f-45ef0821758e', l='ServerLevel[world]', x=-470.70, y=83.56, z=199.62, cpos=[-30, 12], tl=126885, v=true] died, message: 'Villager was slain by Zombie'
+[00:51:57] [Server thread/INFO]: Villager EntityVillager['Villager'/1285, uuid='80dad711-9aba-4c9b-a762-3cebf942d90c', l='ServerLevel[world]', x=-472.41, y=83.00, z=200.70, cpos=[-30, 12], tl=126852, v=true] died, message: 'Villager was slain by Zombie Villager'
+[00:52:43] [Server thread/INFO]: Villager EntityVillager['Villager'/1287, uuid='f3ec8596-b8d5-4184-be7a-e7daa4ee322e', l='ServerLevel[world]', x=-404.30, y=84.18, z=238.26, cpos=[-26, 14], tl=126689, v=true] died, message: 'Villager was slain by Zombie'
+[00:54:37] [Server thread/INFO]: Villager EntityVillager['Villager'/1299, uuid='5484aa37-76ba-431d-aeba-ae5a374199ee', l='ServerLevel[world]', x=-401.88, y=76.00, z=177.30, cpos=[-26, 11], tl=129773, v=true] died, message: 'Villager was slain by Luisito'
+[00:56:55] [Server thread/INFO]: Shadowne_ issued server command: /tp Luisito
+[00:56:55] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to Luisito]
+[00:57:07] [Server thread/INFO]: Shadowne_ issued server command: /gamemode creative
+[00:57:07] [Server thread/INFO]: [Shadowne_: Set own game mode to Creative Mode]
+[00:57:11] [Server thread/INFO]: Shadowne_ issued server command: /gamemode survival
+[00:57:11] [Server thread/INFO]: [Shadowne_: Set own game mode to Survival Mode]
+[00:57:49] [Server thread/INFO]: Shadowne_ issued server command: /tp AxelXDw50
+[00:57:49] [Server thread/INFO]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
+[00:59:36] [Async Chat Thread - #19/INFO]: [Not Secure] <AxelXDw50> no
+[01:00:01] [Server thread/INFO]: Luisito was blown up by Creeper
+[01:00:32] [Async Chat Thread - #20/INFO]: [Not Secure] <AxelXDw50> fue detonado el luis
