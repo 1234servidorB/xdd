@@ -1,244 +1,93 @@
-[02:51:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:51:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:51:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:51:19] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[02:51:19] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[02:51:19] [main/INFO] [FML]: Searching /workspaces/xdd/servidor_minecraft/./mods for mods
-[02:51:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:51:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[02:51:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:51:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:51:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:51:20] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[02:51:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:51:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[02:51:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[02:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[02:51:21] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[02:51:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[02:51:24] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[02:51:24] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[02:51:24] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[02:51:24] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[02:51:24] [Server thread/INFO] [FML]: Config directory created successfully
-[02:51:24] [Server thread/INFO] [FML]: Searching /workspaces/xdd/servidor_minecraft/./mods for mods
-[02:51:24] [Server thread/INFO] [FML]: Mod geckolib3 is missing the required element 'name'. Substituting geckolib3
-[02:51:24] [Server thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
-[02:51:24] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[02:51:24] [Server thread/WARN] [FML]: Missing English translation for geckolib3: assets/geckolib3/lang/en_us.lang
-[02:51:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, sexmod, geckolib3] at CLIENT
-[02:51:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, sexmod, geckolib3] at SERVER
-[02:51:25] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[02:51:25] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[02:51:25] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[02:51:25] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[02:51:25] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[02:51:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[02:51:25] [Server thread/INFO] [FML]: Applying holder lookups
-[02:51:25] [Server thread/INFO] [FML]: Holder lookups applied
-[02:51:25] [Server thread/INFO] [FML]: Applying holder lookups
-[02:51:25] [Server thread/INFO] [FML]: Holder lookups applied
-[02:51:25] [Server thread/INFO] [FML]: Applying holder lookups
-[02:51:25] [Server thread/INFO] [FML]: Holder lookups applied
-[02:51:25] [Server thread/INFO] [FML]: Applying holder lookups
-[02:51:25] [Server thread/INFO] [FML]: Holder lookups applied
-[02:51:25] [Server thread/INFO] [FML]: Injecting itemstacks
-[02:51:25] [Server thread/INFO] [FML]: Itemstack injection complete
-[02:51:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[02:51:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[02:51:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[02:51:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[02:51:26] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[02:51:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:51:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[02:51:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:51:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:51:26] [Server thread/INFO] [FML]: Applying holder lookups
-[02:51:26] [Server thread/INFO] [FML]: Holder lookups applied
-[02:51:26] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.cf from class com.trolmastercard.sexmod.ci
-[02:51:26] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[02:51:26] [Server thread/INFO] [FML]: Injecting itemstacks
-[02:51:26] [Server thread/INFO] [FML]: Itemstack injection complete
-[02:51:26] [Server thread/INFO] [sexmod]: loading up custom models...
-[02:51:26] [Server thread/INFO] [sexmod]: found 0 custom model(s)
-[02:51:26] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
-[02:51:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[02:51:26] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[02:51:26] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[02:51:26] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@5103af4e)
-[02:51:27] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[02:51:27] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[02:51:27] [Netty Epoll Server IO #4/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[02:51:27] [Netty Epoll Server IO #5/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[02:51:27] [Netty Epoll Server IO #6/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[02:51:27] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5103af4e)
-[02:51:27] [Netty Epoll Server IO #7/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[02:51:27] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5103af4e)
-[02:51:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[02:51:27] [Netty Epoll Server IO #0/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[02:51:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
-[02:51:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 19%
-[02:51:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 32%
-[02:51:30] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.cf from class com.trolmastercard.sexmod.cu
-[02:51:30] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[02:51:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 48%
-[02:51:31] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[02:51:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 71%
-[02:51:33] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[02:51:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 95%
-[02:51:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7.141s)! For help, type "help" or "?"
-[02:51:34] [Server thread/INFO] [FML]: Unloading dimension -1
-[02:51:34] [Server thread/INFO] [FML]: Unloading dimension 1
-[02:51:44] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[02:51:44] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[02:51:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:51:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowne_[/127.22.166.252:47225] logged in with entity id 1547 at (-255.5, 71.0, 77.5)
-[02:51:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ joined the game
-[02:51:46] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[02:51:46] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[02:51:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:51:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:46281] logged in with entity id 1862 at (-252.5, 71.0, 74.5)
-[02:51:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
-[02:52:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped @a
-[02:52:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Shadowne_
-[02:52:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set AxelXDw50's game mode to Creative Mode]
-[02:52:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set own game mode to Creative Mode]
-[02:52:41] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.cf from class com.trolmastercard.sexmod.ch
-[02:53:37] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-245.50081534411476, 70.94249999523163, 59.00805216976046)
-[02:54:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 has made the advancement [Diamonds!]
-[02:55:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Shadowne_ moved too quickly! -6.505756762356668,0.0,-8.620517025354227
-[02:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
-[02:57:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ has made the advancement [Diamonds!]
-[02:59:10] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-483.63803184858443, 61.87999999523163, -411.05399387306596)
-[03:00:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[03:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 fell out of the world
-[03:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Killed AxelXDw50]
-[03:00:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Teleported AxelXDw50 to Shadowne_]
-[03:00:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AxelXDw50 lost connection: Disconnected
-[03:00:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 left the game
-[03:00:40] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[03:00:40] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:00:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:00:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:52257] logged in with entity id 13684 at (-505.9865958120975, 70.02726012161212, -419.17550699337335)
-[03:00:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
-[03:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set the time to 1000]
-[03:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AxelXDw50> t
-[03:06:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ has made the advancement [Ice Bucket Challenge]
-[03:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ fell out of the world
-[03:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Killed Shadowne_]
-[03:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Teleported Shadowne_ to AxelXDw50]
-[03:11:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowne_ lost connection: Disconnected
-[03:11:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ left the game
-[03:11:26] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[03:11:26] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:11:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:11:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowne_[/127.22.166.252:59329] logged in with entity id 23157 at (-505.8505009928089, 63.0, -421.4816704867622)
-[03:11:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ joined the game
-[03:12:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowne_ lost connection: Disconnected
-[03:12:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ left the game
-[03:12:35] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[03:12:35] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:12:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:12:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowne_[/127.22.166.252:33079] logged in with entity id 24219 at (-503.0213197610449, 63.0, -420.30000001192093)
-[03:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ joined the game
-[03:12:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AxelXDw50 lost connection: Disconnected
-[03:12:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 left the game
-[03:12:46] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[03:12:46] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:12:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:12:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:49533] logged in with entity id 24370 at (-507.39011586407, 64.12160004615784, -422.69999998807907)
-[03:12:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
-[03:13:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowne_ lost connection: Disconnected
-[03:13:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ left the game
-[03:13:39] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[03:13:39] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:13:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:13:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowne_[/127.22.166.252:41733] logged in with entity id 24787 at (-505.02332186009005, 63.0, -422.69045843436976)
-[03:13:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ joined the game
-[03:14:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowne_ lost connection: Disconnected
-[03:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ left the game
-[03:14:57] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[03:14:57] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:14:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:14:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowne_[/127.22.166.252:53555] logged in with entity id 25435 at (-506.56702001427334, 63.0, -422.07620898188287)
-[03:14:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ joined the game
-[03:15:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set the time to 1000]
-[03:16:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set own game mode to Survival Mode]
-[03:17:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowne_ lost connection: Disconnected
-[03:17:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ left the game
-[03:17:23] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[03:17:23] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:17:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:17:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowne_[/127.22.166.252:44113] logged in with entity id 27165 at (-506.61361653995095, 63.0, -426.68411064881667)
-[03:17:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ joined the game
-[03:17:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AxelXDw50 lost connection: Disconnected
-[03:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 left the game
-[03:17:32] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[03:17:32] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:17:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:17:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:40453] logged in with entity id 27266 at (-506.93365493095774, 63.5, -422.19105607430237)
-[03:17:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
-[03:17:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set AxelXDw50's game mode to Survival Mode]
-[03:18:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set AxelXDw50's game mode to Creative Mode]
-[03:19:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowne_ lost connection: Disconnected
-[03:19:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ left the game
-[03:21:28] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[03:21:28] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:21:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:21:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowne_[/127.22.166.252:54949] logged in with entity id 30120 at (-505.5818881948051, 64.0, -419.7847527302832)
-[03:21:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ joined the game
-[03:22:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ has made the advancement [Monster Hunter]
-[03:22:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Shadowne_: Set own game mode to Creative Mode]
-[03:23:44] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-507.30584103608084, 62.2, -426.196974882457)
-[03:25:22] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-506.9517224833265, 63.0, -426.796641354331)
-[03:25:22] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-506.9517224833265, 63.0, -426.796641354331)
-[03:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AxelXDw50> q
-[03:29:32] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
-[03:29:38] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-507.39036193640214, 63.0, -427.62546427520147)
-[03:29:39] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
-[03:29:40] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-507.39036193640214, 63.0, -427.62546427520147)
-[03:29:41] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
-[03:29:44] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-507.39036193640214, 63.0, -427.62546427520147)
-[03:29:45] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
-[03:29:58] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
-[03:30:00] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
-[03:30:01] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-508.0705904039663, 62.4, -427.79065880269957)
-[03:31:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AxelXDw50 lost connection: Disconnected
-[03:31:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 left the game
-[03:31:27] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[03:31:27] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:31:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:31:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:50559] logged in with entity id 36811 at (-505.5, 63.0, -427.9)
-[03:31:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
-[03:32:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Shadowne_ lost connection: Disconnected
-[03:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ left the game
-[03:32:49] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[03:32:49] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:32:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:32:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Shadowne_[/127.22.166.252:44615] logged in with entity id 37585 at (-507.2, 62.0, -422.0)
-[03:32:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Shadowne_ joined the game
-[03:32:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AxelXDw50 lost connection: Disconnected
-[03:32:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 left the game
-[03:32:59] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[03:32:59] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:33:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:33:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:54137] logged in with entity id 37685 at (-505.94577474384096, 63.0, -422.42815048729784)
-[03:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
-[03:37:17] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player eabb81b0-6912-3337-9fec-9ce87f21428e to (-506.03475431467945, 63.0, -421.1418712321397)
-[03:37:18] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.al$a:lambda$onMessage$0:-1]: teleporting player a846feb1-a590-3c81-a521-bdc6e6e92708 to (-504.1235026799735, 63.0, -421.7426650351177)
-[03:38:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[03:44:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AxelXDw50> rtuyt
-[03:48:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AxelXDw50> habla por el chat
-[03:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AxelXDw50> ok
-[03:55:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 has made the advancement [Monster Hunter]
-[03:59:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AxelXDw50 lost connection: Disconnected
-[03:59:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 left the game
-[03:59:33] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[03:59:33] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
-[03:59:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:59:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:33991] logged in with entity id 55976 at (-506.5482926385722, 62.5, -421.7890172443936)
-[03:59:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
-[04:00:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowne_> XDD
-[04:00:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowne_> que le haces a mi mujer
-[04:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowne_> cerda
-[04:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Shadowne_> y en mi presencia
+[02:40:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:40:43] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:40:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:40:43] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[02:40:43] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[02:40:43] [main/INFO] [FML]: Searching /workspaces/xdd/servidor_minecraft/./mods for mods
+[02:40:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:40:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:40:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:40:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:40:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:40:44] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[02:40:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:40:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:40:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:40:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:40:45] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[02:40:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[02:40:47] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[02:40:47] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[02:40:47] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[02:40:48] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[02:40:48] [Server thread/INFO] [FML]: Searching /workspaces/xdd/servidor_minecraft/./mods for mods
+[02:40:48] [Server thread/INFO] [FML]: Mod geckolib3 is missing the required element 'name'. Substituting geckolib3
+[02:40:48] [Server thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+[02:40:48] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[02:40:48] [Server thread/WARN] [FML]: Missing English translation for geckolib3: assets/geckolib3/lang/en_us.lang
+[02:40:49] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, sexmod, geckolib3] at CLIENT
+[02:40:49] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, sexmod, geckolib3] at SERVER
+[02:40:49] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[02:40:49] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[02:40:49] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[02:40:49] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[02:40:49] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[02:40:49] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[02:40:49] [Server thread/INFO] [FML]: Applying holder lookups
+[02:40:49] [Server thread/INFO] [FML]: Holder lookups applied
+[02:40:49] [Server thread/INFO] [FML]: Applying holder lookups
+[02:40:49] [Server thread/INFO] [FML]: Holder lookups applied
+[02:40:49] [Server thread/INFO] [FML]: Applying holder lookups
+[02:40:49] [Server thread/INFO] [FML]: Holder lookups applied
+[02:40:49] [Server thread/INFO] [FML]: Applying holder lookups
+[02:40:49] [Server thread/INFO] [FML]: Holder lookups applied
+[02:40:49] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:40:49] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:40:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[02:40:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[02:40:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[02:40:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[02:40:49] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[02:40:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:40:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[02:40:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:40:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:40:50] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[02:40:50] [Server thread/INFO] [FML]: Applying holder lookups
+[02:40:50] [Server thread/INFO] [FML]: Holder lookups applied
+[02:40:50] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.cf from class com.trolmastercard.sexmod.ci
+[02:40:50] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:40:50] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:40:50] [Server thread/INFO] [sexmod]: loading up custom models...
+[02:40:50] [Server thread/INFO] [sexmod]: found 0 custom model(s)
+[02:40:50] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
+[02:40:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[02:40:50] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2f6bd1a8)
+[02:40:51] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[02:40:51] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2f6bd1a8)
+[02:40:51] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2f6bd1a8)
+[02:40:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[02:40:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
+[02:40:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 17%
+[02:40:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 30%
+[02:40:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 42%
+[02:40:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 58%
+[02:40:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 83%
+[02:40:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7.631s)! For help, type "help" or "?"
+[02:40:58] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:40:58] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:41:50] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:41:50] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
+[02:41:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:41:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:53975] logged in with entity id 2259 at (-175.5, 77.0, 247.5)
+[02:41:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
+[02:42:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AxelXDw50> hace tp
+[02:42:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: AxelXDw50 lost connection: Disconnected
+[02:42:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 left the game
+[02:45:06] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[02:45:06] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,sexmod@1.0.0,geckolib3@3.0.30,mcp@9.42
+[02:45:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:45:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AxelXDw50[/127.47.11.236:42727] logged in with entity id 3129 at (-194.69999998807907, 77.0, 252.4406918732403)
+[02:45:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 joined the game
+[02:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 has made the advancement [Stone Age]
+[02:48:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AxelXDw50 has made the advancement [Getting an Upgrade]
